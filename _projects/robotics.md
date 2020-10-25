@@ -1,9 +1,9 @@
 ---
 title: 'Robotics'
-subtitle: 'Internship Summer 2020'
+subtitle: 'Regional Finalists: FRC 2019'
 date: 2018-07-30 00:00:00
-description: Bioinformatics Pipeline applied to Transcriptomics. From Quality Control to Functional Analysis
-featured_image: '/images/demo/bio1.png'
+description: Intake Design, CAD, Fundraising, Accounting
+featured_image: '/images/demo/robotics1.jpg'
 ---
 
 ![](/images/demo/bioinformatics-p.png)
