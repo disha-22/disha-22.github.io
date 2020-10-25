@@ -1,6 +1,6 @@
 ---
 title: Disha Chauhan
-subtitle: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
+subtitle: I am a junior at Los Gatos High School interested in mathematics, bioinformatics, and inter-disciplinary fields.
 description: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
 featured_image: /images/demo/about.jpg
 ---
