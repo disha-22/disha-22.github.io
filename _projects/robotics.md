@@ -37,7 +37,7 @@ Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/robotics2.jpg">
+	<img src="/images/demo/r1.jpg">
 	<img src="/images/demo/robotics3.jpg">
 	<img src="/images/demo/robotics4.jpg">
 </div>
