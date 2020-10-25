@@ -23,18 +23,22 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 <h6> Details </h6>
 > Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
 
+
 ---
 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/r4.jpg">
 	<img src="/images/demo/r1.jpg">
-	<img src="/images/demo/r3.jpg">
 	<img src="/images/demo/r2.jpg">
 </div>
 
 
+---
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYgTTOVjDZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 
