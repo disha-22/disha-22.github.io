@@ -3,7 +3,7 @@ title: 'Robotics'
 subtitle: 'Regional Finalists: FRC 2019'
 date: 2018-07-30 00:00:00
 description: Intake Design, CAD, Fundraising, Accounting
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/r1.jpg'
 ---
 
 ![](/images/demo/bioinformatics-p.png)
