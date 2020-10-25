@@ -24,11 +24,11 @@ Member of the Los Gatos High School Robotics team 972 (IronClaw: http://ironclaw
 ---
 
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/demo/r1.jpg">
 	<img src="/images/demo/r2.jpg">
-	<img src="/images/demo/r3.jpg">
 	<img src="/images/demo/r4.jpg">
+	<img src="/images/demo/r3.jpg">
 </div>
 
 
