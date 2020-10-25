@@ -9,7 +9,6 @@ featured_image: '/images/demo/r1.jpg'
 Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
 
 <hr>
-<br> 
   
 <h6> Highlights </h6>
 > Regional Finalist: FRC 2019 https://frc-events.firstinspires.org/team/972 <br> Breadth of experience <br> Impact to community
