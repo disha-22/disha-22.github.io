@@ -3,7 +3,7 @@ title: 'Robotics'
 subtitle: 'Regional Finalists: FRC 2019'
 date: 2018-07-30 00:00:00
 description: Intake Design, CAD, Fundraising, Accounting
-featured_image: '/images/demo/robotics1.jpg'
+featured_image: '/images/demo/demo-sqaure.jpg'
 ---
 
 ![](/images/demo/bioinformatics-p.png)
@@ -36,7 +36,7 @@ Details:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/robotics1.jpg">
+	<img src="/images/demo/demo-square.jpg">
 	<img src="/images/demo/robotics2.jpg">
 	<img src="/images/demo/robotics3.jpg">
 	<img src="/images/demo/robotics4.jpg">
