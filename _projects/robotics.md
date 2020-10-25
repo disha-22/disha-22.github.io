@@ -6,6 +6,8 @@ description: Design and Assembly <br> Fundraising and Finance <br> Community Out
 featured_image: '/images/demo/r1.jpg'
 ---
 
+<br>
+
 Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
 
 <hr>
@@ -14,10 +16,10 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 > Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Design Reviews <br> Competition Strategy Development, Leadership
+> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
 
 <h6> Engineering Skills </h6>
-> Strategy driven robot design & prototyping <br> CAD, assembly and troubleshooting
+> Strategy driven Robot Prototyping & Design, CAD, Assembly, Troubleshooting
 
 
 <h6> Details </h6>
