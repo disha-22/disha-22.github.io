@@ -7,7 +7,6 @@ featured_image: '/images/demo/r1.jpg'
 ---
 
 <br>
-
 Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
 
 <hr>
