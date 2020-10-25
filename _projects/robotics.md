@@ -19,8 +19,7 @@ Member of the Los Gatos High School Robotics team 972 (IronClaw: http://ironclaw
 
 
 <h6> Details </h6>
-Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) 
-<br> Fundraising <br> Finance
+> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
 
 ---
 
