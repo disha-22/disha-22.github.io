@@ -5,7 +5,7 @@ description: I am a junior at Los Gatos high school interested in mathematics, b
 featured_image: /images/demo/about.jpg
 ---
 ```html
-(h3)Disha(/h3)
+<h3>Disha</h3>
 ```
 ## Education
 
