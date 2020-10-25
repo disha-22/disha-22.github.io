@@ -9,7 +9,7 @@ featured_image: /images/demo/about.jpg
 
 We've packed Personal full of powerful features to help showcase your work:
 
-* Test Test2
+* Test Test2 Test3
 * Large header image and single column post layout
 * Responsive – works perfectly on all devices
 * Portfolio post type
