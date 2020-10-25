@@ -6,8 +6,6 @@ description: Design and Assembly <br> Fundraising and Finance <br> Community Out
 featured_image: '/images/demo/r1.jpg'
 ---
 
-![](/images/demo/bioinformatics-p.png)
-
 Member of the Los Gatos High School Robotics team 972 (IronClaw: http://ironclaw972.org/) in Freshman and Sophomore years.  
   
 Highlights:
