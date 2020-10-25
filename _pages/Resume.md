@@ -8,17 +8,9 @@ featured_image: /images/demo/about.jpg
 
 ## Education
 
-<div class="row education">
-
-         <div class="three columns header-col">
-            <h1><span>Education</span></h1>
-         </div>
-
-         <div class="nine columns main-col">
-
-            <div class="row item">
-
-               <div class="twelve columns">
+        
+        <h2><span>Education</span></h2>
+    
 
                   <h3>Proof School</h3>
                   <p class="info">Math-focused School<span>&bull;</span> <em class="date">Sep 2015 - June 2019</em></p>
@@ -26,11 +18,7 @@ featured_image: /images/demo/about.jpg
                   <p>
                      Math Courses: Multivariable Calculus, Linear Algebra, Discrete Probability, Non-Euclidean Geometry, Asymptotic Analysis, Data Structures and Algorithms
                   </p>
-               </div>
-
-            </div>
-</div>
-</div>
+               
 
 We've packed Personal full of powerful features to help showcase your work:
 
