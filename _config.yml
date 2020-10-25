@@ -1,7 +1,7 @@
-site: Personal Jekyll Theme
+site: Disha Chauhan
 
 url: https://github.com/disha-22/disha-22.github.io.git
-baseurl: /disha-22.github.io
+baseurl: /
 
 collections:
   pages:
