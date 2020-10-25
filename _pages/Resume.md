@@ -4,7 +4,9 @@ subtitle: I am a junior at Los Gatos High School interested in mathematics, bioi
 description: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
 featured_image: /images/demo/about.jpg
 ---
+```html
 (h3)Disha(/h3)
+```
 ## Education
 
 We've packed Personal full of powerful features to help showcase your work:
