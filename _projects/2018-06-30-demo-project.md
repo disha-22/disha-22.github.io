@@ -3,7 +3,7 @@ title: 'Bioinformatics Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis.
-featured_image: '/images/demo/square.jpg'
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/bioinformatics-p.png)
