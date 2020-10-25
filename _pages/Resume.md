@@ -5,9 +5,10 @@ description: I am a junior at Los Gatos high school interested in mathematics, b
 featured_image: /images/demo/about.jpg
 ---
 
-<section id="resume">
 
-  <div class="row education">
+## Education
+
+<div class="row education">
 
          <div class="three columns header-col">
             <h1><span>Education</span></h1>
@@ -27,42 +28,9 @@ featured_image: /images/demo/about.jpg
                   </p>
                </div>
 
-            </div> <!-- item end -->
-
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3> Stanford AI4ALL </h3>
-                  <p><em class="date">July 2016</em></p>
-                  <p>
-                     1 of 24 selected worldwide for all-girls machine learning camp; conducted NLP research on analyzing tweets for disaster relief; full tuition paid for participants in 2016.
-                  </p>
-
-               </div>
-            </div> <!-- item end -->
-
-
-            <div class="row item">
-
-               <div class="twelve columns">
-
-                  <h3>Iowa Young Writers' Studio</h3>
-                  <p><em class="date">June 2018</em></p>
-
-                  <p>
-                     1 of 72 chosen worldwide for creative writing camp. Studied poetry for 2 weeks at the University of Iowa under a graduate of the Iowa Writers' Workshop, one of the best MFA programs in the country.
-
-                  </p>
-
-               </div>
-            </div> <!-- item end -->
-
-         </div> <!-- main-col end -->
-
-      </div> <!-- End Education -->
-## Education
+            </div>
+</div>
+</div>
 
 We've packed Personal full of powerful features to help showcase your work:
 
