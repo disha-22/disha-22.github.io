@@ -15,9 +15,11 @@ Highlights:
 * Breadth of experience
 * Impact to community
 
-> “Soft Skills: Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership”
+<h6> Soft Skills </h6>
+> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
 
-> “Engineering Skills: Strategy driven robot design & prototyping, CAD, assembly and troubleshooting”
+<h6> Engineering Skills </h6>
+> Strategy driven robot design & prototyping, CAD, assembly and troubleshooting
 
 
 Details:
