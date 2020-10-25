@@ -11,7 +11,7 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 <hr>
   
 <h6> Highlights </h6>
-> Regional Finalist: FRC 2019 https://frc-events.firstinspires.org/team/972 <br> Breadth of experience <br> Impact to community
+> Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Design Reviews <br> Competition Strategy Development, Leadership
