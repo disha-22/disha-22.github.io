@@ -1,8 +1,8 @@
 ---
-title: 'Robotics'
+title: 'Competitive Robotics'
 subtitle: 'Regional Finalists - FRC 2019'
 date: 2018-07-30 00:00:00
-description: Design <br> Fundraising <br> Finance
+description: Design and Assembly <br> Fundraising and Finance <br> Community Outreach
 featured_image: '/images/demo/r1.jpg'
 ---
 
