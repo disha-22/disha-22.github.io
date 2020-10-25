@@ -1,5 +1,5 @@
 ---
-title: Education. &nbsp; &nbsp; &nbsp; Experience. &nbsp; &nbsp; &nbsp;Awards
+title: Education. &nbsp; &nbsp; Experience. &nbsp; &nbsp;Awards
 subtitle: Skills covered under individual projects
 featured_image: /images/demo/resume1.png
 ---
