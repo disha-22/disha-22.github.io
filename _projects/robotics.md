@@ -35,7 +35,7 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 </div>
 
 
-<iframe src="https://www.youtube.com/watch?v=fYgTTOVjDZs" width="640" height="360" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=fYgTTOVjDZs" width="640" height="360"></iframe>
 
 ---
 
