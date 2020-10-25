@@ -1,7 +1,6 @@
 ---
-title: Disha Chauhan
-subtitle: I am a junior at Los Gatos High School interested in the interdisciplinary fields of Bioinformatics & Robotics that bring together Mathematics, Biology, Physics, & Computer Science. 
-description: I am a junior at Los Gatos High School interested in the interdisciplinary fields of Bioinformatics & Robotics that bring together Mathematics, Biology, Physics, & Computer Science.
+title: Education. Experience. Awards
+subtitle: Skills covered under individual projects
 featured_image: /images/demo/about.jpg
 ---
         
