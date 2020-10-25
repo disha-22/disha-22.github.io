@@ -10,7 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
