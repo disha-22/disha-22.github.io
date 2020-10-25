@@ -6,8 +6,8 @@ featured_image: /images/demo/about.jpg
 ---
         
  <h2><span>Education</span></h2>
- <h3>Proof School</h3>
-  <p style="font-family:verdana; font-size:20px; color:#116466">Math-focused School <span>&bull;</span> <em class="date">Sep 2015 - June 2019</em></p>
-<p> Math Courses: Multivariable Calculus, Linear Algebra, Discrete Probability, Non-Euclidean Geometry, Asymptotic Analysis, Data Structures and Algorithms </p>
+ <h3>Los Gatos High School</h3>
+  <p style="font-family:verdana; font-size:20px"><em class="date">Sep 2015 - June 2019</em></p>
+<p> Courses: AP Calc BC, AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, AP Euro </p>
                
 
