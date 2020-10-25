@@ -2,7 +2,7 @@
 title: 'Bioinformatics'
 subtitle: 'Internship Summer 2020'
 date: 2018-06-30 00:00:00
-description: Bioinformatics Pipeline applied to Transcriptomics From Quality Control to Functional Analysis
+description: Bioinformatics Pipeline applied to Transcriptomics - From Quality Control to Functional Analysis
 featured_image: '/images/demo/bio1.png'
 ---
 
