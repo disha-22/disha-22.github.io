@@ -1,11 +1,11 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: Disha Chauhan
+subtitle: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
+description: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## Education
 
 We've packed Personal full of powerful features to help showcase your work:
 
