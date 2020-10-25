@@ -1,6 +1,6 @@
 ---
-title: 'Bioinformatics'
-subtitle: 'Summer Internship 2020'
+title: 'Demo Project'
+subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis
 featured_image: '/images/demo/bio1.png'
