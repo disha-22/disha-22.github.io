@@ -1,8 +1,8 @@
 ---
 title: 'Robotics'
-subtitle: 'Regional Finalists: FRC 2019'
+subtitle: 'Regional Finalists - FRC 2019'
 date: 2018-07-30 00:00:00
-description: Intake Design, CAD, Fundraising, Accounting
+description: Design <br> Fundraising <br> Finance
 featured_image: '/images/demo/r1.jpg'
 ---
 
@@ -36,7 +36,7 @@ Details:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/r1.jpg">
 	<img src="/images/demo/r1.jpg">
 	<img src="/images/demo/robotics3.jpg">
 	<img src="/images/demo/robotics4.jpg">
