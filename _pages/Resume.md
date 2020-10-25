@@ -4,10 +4,6 @@ subtitle: I am a junior at Los Gatos High School interested in mathematics, bioi
 description: I am a junior at Los Gatos high school interested in mathematics, bioinformatics, and inter-disciplinary fields.
 featured_image: /images/demo/about.jpg
 ---
-
-
-## Education
-
         
  <h2><span>Education</span></h2>
  <h3>Proof School</h3>
@@ -15,26 +11,3 @@ featured_image: /images/demo/about.jpg
 <p> Math Courses: Multivariable Calculus, Linear Algebra, Discrete Probability, Non-Euclidean Geometry, Asymptotic Analysis, Data Structures and Algorithms </p>
                
 
-We've packed Personal full of powerful features to help showcase your work:
-
-* Test Test2 Test3
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
