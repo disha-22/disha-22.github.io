@@ -12,30 +12,24 @@ Member of the Los Gatos High School Robotics team 972 (IronClaw: http://ironclaw
 > Regional Finalist: FRC 2019 https://frc-events.firstinspires.org/team/972 <br> Breadth of experience <br> Impact to community
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
+> Teamwork, Technical Presentation, Design Reviews <br> Competition Strategy Development, Leadership
 
 <h6> Engineering Skills </h6>
-> Strategy driven robot design & prototyping, CAD, assembly and troubleshooting
+> Strategy driven robot design & prototyping <br> CAD, assembly and troubleshooting
 
 
-Details:
-
-* Intake design and prototype development for 2019 robot 
-* Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid)
-* Fundraising
-* Finance
+<h6> Details </h6>
+Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) 
+<br> Fundraising <br> Finance
 
 ---
 
-### Image galleries
 
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/demo/r1.jpg">
 	<img src="/images/demo/r2.jpg">
 	<img src="/images/demo/r3.jpg">
-	<img src="/images/demo/robotics4.jpg">
+	<img src="/images/demo/r4.jpg">
 </div>
 
 
