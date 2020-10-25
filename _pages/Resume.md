@@ -13,7 +13,9 @@ featured_image: /images/demo/about.jpg
 AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang
 <h5>Sophomore Year:</h5>
 AP Calc BC, AP Euro
-<br><hr>
+
+<hr>
+
 <h4>Other Courses:</h4>
 French 4 Honours, Robotics, Orchestra
 
