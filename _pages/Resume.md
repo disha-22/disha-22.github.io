@@ -15,7 +15,7 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 > Overall GPA: 4.375 ( straight As )
 <br> Junior Year GPA: 5.0 
-<br> AP Scores: 5 (Calculus BC, European History)
+<br> AP Scores: 5 ( Calculus BC, European History )
 <br> PSAT Score: 1490 ( Sophomore Year )
 <br> Non-academic Courses: Orchestra, JV Tennis
 
