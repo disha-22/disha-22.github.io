@@ -21,3 +21,11 @@ French 4 Honours, Robotics, Orchestra
 <hr>
                
 <h3>CTY</h3>
+
+<hr width=120%>
+
+<h2>Experience</h2>
+
+<h3>Shadowing a professer at the Department of Neurology at Harvard Medical</h3>
+<h3>Bioinformatics virtual internship at STEMaway</h3>
+
