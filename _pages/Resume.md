@@ -9,7 +9,7 @@ featured_image: /images/demo/resume3.jpg
  <h4>Los Gatos High School </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 >Significant Courses <br>
-Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors <br>
+Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors, AP Comp Science A(audit) <br>
 Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
@@ -17,6 +17,7 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 <br> Junior Year GPA: 5.0 
 <br> AP Scores: 5 (Calculus BC, European History)
 <br> PSAT Score: 1490 ( Sophomore Year )
+<br> Non-academic Courses: Orchestra, JV Tennis
 
 <hr>
                
@@ -26,9 +27,9 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 <h2>Experience</h2>
 
-> Program Coordinator at STEMaway 
-<br> Bioinformatics Virtual-Internship at STEMaway 
-<br> Shadowed Professor Sudeshna Das at the Department of Neurology at Harvard Medical
+> Program Coordinator at STEMaway ( August 2020 )
+<br> Bioinformatics Virtual-Internship at STEMaway ( Summer 2020 )
+<br> Shadowed Professor Sudeshna Das at the Department of Neurology at Harvard Medical ( Summer 2019 )
 
 <hr style="height:5px;color:black">
 
