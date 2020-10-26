@@ -35,4 +35,4 @@ featured_image: /images/demo/resume3.jpg
 <br> John Hopkins CTY Grand Honors 
 <br> Math Kangaroo: Ranked 5th Nationwide 
 <br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts 
-<br> Santa Clara Valley Association Math Field Day: Ranked 6th 
+<br> Santa Clara Valley Mathematics Association Field Day: Ranked 6th 
