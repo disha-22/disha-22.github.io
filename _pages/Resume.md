@@ -30,7 +30,7 @@ Sophomore Year: AP Calc BC ( Score: 5 ), AP Euro ( Score: 5 ), Robotics, Orchest
 <h2>Awards</h2>
 
 <h4> 8th grade: </h4>
-> John Hopkins CTY Study of Esceptional Talent ( SET ) Scholar 
+> John Hopkins CTY Study of Esceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
 <br> John Hopkins CTY Grand Honors 
 <br> Math Kangaroo: Ranked 5th Nationwide 
 <br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts 
