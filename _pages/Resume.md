@@ -9,7 +9,7 @@ featured_image: /images/demo/resume3.jpg
  <h4>Los Gatos High School </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 >Significant Courses <br>
-Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors, AP Comp Science A(audit) <br>
+Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors, AP Comp Science A( audit ) <br>
 Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
@@ -43,5 +43,4 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 > John Hopkins CTY Study of Exceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
 <br> John Hopkins CTY Grand Honors 
 <br> Math Kangaroo National Competition: Ranked 5th 
-<br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts 
 <br> Santa Clara Valley Mathematics Association Field Day: Ranked 6th 
