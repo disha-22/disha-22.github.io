@@ -31,12 +31,7 @@ featured_image: /images/demo/resume3.jpg
 <h2>Awards</h2>
 
 * StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
-* SAT math 770 in 8th grade ( JHU CTY GRAND HONORs and SET scholar )
-* Math Kangaroo 5th nationwide in 8th grade
-* Principal Scholar for straight As all through middle school ( 8th Grade graduation )
-* Departmental Math medal for two best students ( 8th grade Graduation )
-* Principal s award for super achiever in Math from Russian school of Math 
-* Math olympiad
-* Chosen to represent Fisher Middle school in Mathcounts and SCVA math field day ( 7th and 8th Grade )
-* SCVA Math Field Day - 7th Grade 6th place in all Bay Area Middle Schools 
-* SCVA Math Field Day - 8th Grade 11th place individual and 2nd place for team
+
+<h4> 8th grade </h4>
+> John Hopkins CTY Study of Esceptional Talent ( SET ) Scholar <br> John Hopkins CTY Grand Honors <br> Math Kangaroo 5th Nationwide 
+<br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts <br> SCVA Math Field Day - 6th place in all Bay Area Middle Schools 
