@@ -30,8 +30,9 @@ featured_image: /images/demo/resume3.jpg
 
 <h2>Awards</h2>
 
-* StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
-
-<h4> 8th grade </h4>
-> John Hopkins CTY Study of Esceptional Talent ( SET ) Scholar <br> John Hopkins CTY Grand Honors <br> Math Kangaroo 5th Nationwide 
-<br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts <br> SCVA Math Field Day - 6th place in all Bay Area Middle Schools 
+<h4> 8th grade: </h4>
+> John Hopkins CTY Study of Esceptional Talent ( SET ) Scholar 
+<br> John Hopkins CTY Grand Honors 
+<br> Math Kangaroo: Ranked 5th Nationwide 
+<br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts 
+<br> Santa Clara Valley Association Math Field Day: Ranked 6th 
