@@ -32,7 +32,7 @@ Shadowing a professer at the Department of Neurology at Harvard Medical
 
 <hr style="height:5px;color:black">
 
-<h2>Awards</h2>
+<h2>Award</h2>
 
 A+ and score of 5 in Calc-BC AP test ( Sophomore year )
 StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
