@@ -10,12 +10,12 @@ featured_image: /images/demo/resume3.jpg
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 >Significant Courses <br>
 Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors <br>
-Sophomore Year: AP Calc BC, AP Euro, Robotics, English Honors<br>
-Freshman Year: Bio Honors, Trig & Precalc Honors, Robotics, English Honors
+Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
+Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 > Overall GPA: 4.375 ( straight As )
 <br> Junior Year GPA: 5.0 
-<br> AP Scores: Calculus BC - 5, European History - 5
+<br> AP Scores: 5 (Calculus BC, European History)
 <br> PSAT Score: 1490 ( Sophomore Year )
 
 <hr>
@@ -39,7 +39,7 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, Robotics, English Honors
 <br> California Math League: Ranked 2nd
 <br> French Department Award
 <h4> 8th grade: </h4>
-> John Hopkins CTY Study of Esceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
+> John Hopkins CTY Study of Exceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
 <br> John Hopkins CTY Grand Honors 
 <br> Math Kangaroo National Competition: Ranked 5th 
 <br> Departmental Math Medal <br> Represented Fisher Middle school in Mathcounts 
