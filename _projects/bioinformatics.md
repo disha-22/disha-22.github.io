@@ -10,20 +10,25 @@ featured_image: '/images/demo/bioinformatics.png'
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
-<br>
-Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
+I participated in the STEM-Away Bioinformatics pathway educational internship and learned about the general workflow of bioinformatics research when dealing with microarray data. With guidance from internship mentors and leads, I performed batch correction, quality control, phenotypic analysis, differential gene expression analysis, and functional analysis (gene ontology, GSEA, transcriptional factor analysis, survival analysis) on the GSE8761 and GSE32323 datasets found in the GEO database. The goal of this internship project was to identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above and to gain experience with a general bioinformatics workflow. In addition to utilizing various Bioconductor R packages (affy, limma, clusterProfiler, etc.) I became familiar with external functional analysis tools such as Metascape, DAVID, EnrichR, STRING, and GEPIA and different collaboration channels such as GSuite, GitHub, Asana, Slack, and STEM-Away’s own forums.
+
+Throughout this internship, I enhanced my independent work ethic by managing my own time and working remotely while also communicating as part of a collaborative team with the other interns in order to give insightful presentations and troubleshoot challenges that arose in coding and the understanding of the methods.
+
 
 <hr>
   
 <h6> Highlights </h6>
-> Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
+> Featured Speaker
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
+> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Managment
 
-<h6> Engineering Skills </h6>
-> Strategy driven Robot Prototyping & Design, CAD, Assembly, Troubleshooting
+<h6> Bioinformatics Skills </h6>
+> Bioconductor R Packages, GEO Database, Quality Control (RLE boxplots, NUSE boxplots), Data visualization (PCA, Heatmaps, Volcano plots),
+DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functional Analysis (GO, KEGG, STRING database)
 
+<h6> Industry Tools </h6>
+> GitHub, R Studio, Asana, G Suite
 
 <h6> Details </h6>
 > Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
@@ -40,8 +45,4 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 
 
 ---
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdRBp6AnNCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
