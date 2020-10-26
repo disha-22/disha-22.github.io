@@ -13,8 +13,9 @@ Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors <
 Sophomore Year: AP Calc BC, AP Euro, Robotics, English Honors<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, Robotics, English Honors
 
-> Current GPA: 5.0, straight As
+> Current GPA: 5.0 ( straight As )
 <br> AP Scores: Calculus BC - 5, European History - 5
+<br> PSAT Score ( Sophomore Year ): 1490
 
 <hr>
                
@@ -32,7 +33,8 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, Robotics, English Honors
 
 <h2>Awards</h2>
 <h4> High School: </h4>
-> California Math League: Ranked 2nd
+> First Robotics Competition: Regional Finalists
+<br> California Math League: Ranked 2nd
 <br> French Department Award
 <h4> 8th grade: </h4>
 > John Hopkins CTY Study of Esceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
