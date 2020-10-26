@@ -40,7 +40,7 @@ SAT math 770 800 in 8th grade ( JHU CTY GRAND HONORs and SET scholar )
 Math Kangaroo 5th nationwide in 8th grade
 Principal Scholar for straight As all through middle school ( 8th Grade graduation )
 Departmental Math medal for two best students ( 8th grade Graduation )
-Principal’s award for super achiever in Math from Russian school of Math 
+Principal s award for super achiever in Math from Russian school of Math 
 Math olympiad
 Chosen to represent Fisher Middle school in Mathcounts and SCVA math field day ( 7th and 8th Grade )
 SCVA Math Field Day  7th Grade 6th place in all Bay Area Middle Schools 
