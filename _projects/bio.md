@@ -1,30 +1,34 @@
 ---
-title: 'Competitive Robotics'
-subtitle: 'Regional Finalists - FRC 2019'
-date: 2018-05-30 00:00:00
-description: Design and Assembly <br> Fundraising and Finance <br> Community Outreach
-featured_image: '/images/demo/r1.jpg'
+title: 'Bioinformatics Pipeline applied to Transcriptomics'
+subtitle: 'Internship - Summer 2020'
+date: 2018-06-30 00:00:00
+description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
+featured_image: '/images/demo/bioinformatics.png'
 ---
 
-<br>
-Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
+![](/images/demo/bioinformatics-p.png)
+
+<h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
+
+This was an intense project that gave me an understanding of the general workflow of bioinformatics research when dealing with microarray data. With hands-on learning that involved extensive programming and troubleshooting, I have taken the next step in my STEM career path.
 
 <hr>
   
 <h6> Highlights </h6>
-> Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
+> STEMaway Featured Student Speaker: Bioinformatics Pathway
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
+> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management
 
-<h6> Engineering Skills </h6>
-> Strategy driven Robot Prototyping & Design, CAD, Assembly, Troubleshooting
+<h6> Bioinformatics Skills </h6>
+> Bioconductor R Packages, GEO Database, Quality Control (RLE boxplots, NUSE boxplots), Data visualization (PCA, Heatmaps, Volcano plots),
+DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functional Analysis (GO, KEGG, STRING database)
 
+<h6> Industry Tools </h6>
+> GitHub, R Studio, Asana, GSuite
 
 <h6> Details </h6>
-> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
-
-
+> Batch correction, quality control, phenotypic analysis, differential gene expression analysis, and functional analysis on the GSE8761 and GSE32323 datasets from the GEO database. <br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
 ---
 
 
@@ -36,10 +40,3 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 
 
 ---
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdRBp6AnNCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
----
-
