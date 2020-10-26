@@ -29,8 +29,8 @@ DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functi
 
 <h6> Details </h6>
 > Batch correction, quality control, phenotypic analysis, differential gene expression analysis, and functional analysis on the GSE8761 and GSE32323 datasets from the GEO database. <br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
----
 
+---
 
 <div class="gallery" data-columns="2">
 	<img src="/images/demo/r4.jpg">
