@@ -24,7 +24,7 @@ French 4 Honours, Robotics, Orchestra
 
 <hr style="height:5px;color:black">
 
-<h2>Experience</h2>
+<h2>Experiences</h2>
 
 Program coordinator at STEMaway
 Bioinformatics virtual internship at STEMaway
