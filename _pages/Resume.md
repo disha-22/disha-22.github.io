@@ -30,9 +30,8 @@ Program coordinator at STEMaway
 Bioinformatics virtual internship at STEMaway
 Shadowing a professer at the Department of Neurology at Harvard Medical
 
-<hr style="height:5px;color:black">
 
-<h2>Award</h2>
+<h2>Awards</h2>
 
 A plus and score of 5 in Calc-BC AP test ( Sophomore year )
 StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
