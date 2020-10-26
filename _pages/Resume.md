@@ -10,9 +10,9 @@ featured_image: /images/demo/resume3.jpg
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 
 <h4>AP Courses:</h4>
-**Junior Year &colon;** AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang
+**Junior Year:** AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang
 <h6>Sophomore Year</h6>
-AP Calc BC ( Score &colon; 5 ), AP Euro ( Score &colon; 5 )
+AP Calc BC ( Score: 5 ), AP Euro ( Score: 5 )
 
 <h4>Other Courses:</h4>
 French 4 Honours, Robotics, Orchestra
@@ -25,15 +25,12 @@ French 4 Honours, Robotics, Orchestra
 
 <h2>Experiences</h2>
 
-Program coordinator at STEMaway
-Bioinformatics virtual internship at STEMaway
-Shadowing a professer at the Department of Neurology at Harvard Medical
+> Program Coordinator at STEMaway <br> Bioinformatics virtual internship at STEMaway <br> Shadowing a professer at the Department of Neurology at Harvard Medical
 
 <hr style="height:5px;color:black">
 
 <h2>Awards</h2>
 
-* A plus and score of 5 in Calc-BC AP test ( Sophomore year )
 * StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
 * SAT math 770 in 8th grade ( JHU CTY GRAND HONORs and SET scholar )
 * Math Kangaroo 5th nationwide in 8th grade
