@@ -34,7 +34,7 @@ Shadowing a professer at the Department of Neurology at Harvard Medical
 
 <h2>Awards</h2>
 
-A+ and score of 5 in Calc-BC AP test ( Sophomore year )
+A plus and score of 5 in Calc-BC AP test ( Sophomore year )
 StemwayVirtual Internship in Bioinformatics ( Summer 2020 )
 SAT math 770/800 in 8th grade ( JHU CTY GRAND HONORs and SET scholar )
 Math Kangaroo 5th nationwide in 8th grade
