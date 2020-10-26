@@ -15,7 +15,7 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, Robotics, English Honors
 
 > Current GPA: 5.0 ( straight As )
 <br> AP Scores: Calculus BC - 5, European History - 5
-<br> PSAT Score ( Sophomore Year ): 1490
+<br> PSAT Score: 1490 ( Sophomore Year )
 
 <hr>
                
