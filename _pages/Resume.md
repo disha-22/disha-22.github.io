@@ -22,7 +22,7 @@ French 4 Honours, Robotics, Orchestra
                
 <h3>CTY</h3>
 
-<hr style="height: 2px;color: black">
+<hr style="height:5px;color:black">
 
 <h4>Experience</h4>
 
