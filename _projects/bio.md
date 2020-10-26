@@ -10,8 +10,9 @@ featured_image: '/images/demo/bioinformatics.png'
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
-An extremely challenging project that helped me get an understanding of the bioinformatics pipeline used when dealing with DNA microarray data.
-Using the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used and teaching a workshop to introduce high school students to Bioinformatics.
+An extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data.
+With the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used in the internship to further deepen my understanding of Bioinformatics. 
+And I am sharing my passion by introducing high school students to Bioinformatics via an online workshop. 
 
 <hr>
   
@@ -30,7 +31,7 @@ DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functi
 > GitHub, R Studio, Asana, GSuite
 
 <h6> Details </h6>
-> Installing and using Bioconductor packages needed for gene expression analysis and routines necessary for statistical analysis such as removing outliers, and normalization
+> Installing and using Bioconductor packages needed for gene expression analysis and routines necessary for statistical analysis such as removing outliers, and normalization.
 <br> Drawing statistically significant correlations between disease and genes expressed. 
 <br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
 
