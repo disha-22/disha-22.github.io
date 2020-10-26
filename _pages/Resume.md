@@ -43,4 +43,5 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 > John Hopkins CTY Study of Exceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
 <br> John Hopkins CTY Grand Honors 
 <br> Math Kangaroo National Competition: Ranked 5th 
+<br> Departmental Math Medal
 <br> Santa Clara Valley Mathematics Association Field Day: Ranked 6th 
