@@ -10,12 +10,14 @@ featured_image: '/images/demo/bioinformatics.png'
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
-This was an intense project that gave me an understanding of the general workflow of bioinformatics research when dealing with microarray data. With hands-on learning that involved extensive programming and troubleshooting, I have taken the next step in my STEM career path.
+An extremely challenging project that helped me get an understanding of the bioinformatics pipeline used when dealing with DNA microarray data.
+Using the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used and teaching a workshop to introduce high school students to Bioinformatics.
 
 <hr>
   
 <h6> Highlights </h6>
-> STEMaway Featured Student Speaker: Bioinformatics Pathway
+> Applying big-data computing techniques to drive advances in fighting diseases such as Alzheimers and cancer.
+<br> STEMaway Featured Student Speaker: Bioinformatics Pathway
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management
@@ -28,7 +30,9 @@ DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functi
 > GitHub, R Studio, Asana, GSuite
 
 <h6> Details </h6>
-> Batch correction, quality control, phenotypic analysis, differential gene expression analysis, and functional analysis on the GSE8761 and GSE32323 datasets from the GEO database. <br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
+> Installing and using Bioconductor packages needed for gene expression analysis and routines necessary for statistical analysis such as removing outliers, and normalization
+<br> Drawing statistically significant correlations between disease and genes expressed. 
+<br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
 
 ---
 
