@@ -25,7 +25,7 @@ French 4 Honours, Robotics, Orchestra
 
 <h2>Experiences</h2>
 
-> Program Coordinator at STEMaway <br> Bioinformatics virtual internship at STEMaway <br> Shadowing a professer at the Department of Neurology at Harvard Medical
+> Program Coordinator at STEMaway <br> Bioinformatics virtual-internship at STEMaway <br> Shadowing a professer at the Department of Neurology at Harvard Medical
 
 <hr style="height:5px;color:black">
 
