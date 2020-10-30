@@ -33,7 +33,7 @@ DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functi
 
 
 <div class="gallery" data-columns="2">
-	<img src="/images/demo/r4.jpg">
+	<img src="/images/demo/bio.PNG">
 	<img src="/images/demo/sa-certificate.jpg">
 	<img src="/images/demo/r2.jpg">
 </div>
