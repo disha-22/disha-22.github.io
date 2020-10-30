@@ -9,15 +9,17 @@ featured_image: /images/demo/resume3.jpg
  <h4>Los Gatos High School </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 >Significant Courses <br>
-Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors, AP Comp Science A ( audit ) <br>
+Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors <br>
 Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 > Independent Study
-<br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a>
+<br> AP Comp Science A ( auditing school course ) 
+<br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
+<br> <a href = "https://developers.google.com/machine-learning/crash-course/> Machine Learning Crash Course from Google </a>
 
 > Overall GPA: 4.375 ( straight As )
-<br> Junior Year GPA: 5.0 
+<br> Junior Year GPA: 5.0 ( current )
 <br> AP Scores: 5 ( Calculus BC, European History )
 <br> PSAT Score: 1490 ( Sophomore Year )
 <br> Non-academic Courses: Orchestra, JV Tennis
