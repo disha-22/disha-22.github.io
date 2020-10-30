@@ -16,7 +16,8 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 > Independent Study
 <br> AP Comp Science A ( auditing school course ) 
 <br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
-<br> <a href = "https://developers.google.com/machine-learning/crash-course/> Machine Learning Crash Course from Google </a>
+<br> <a href = "https://rkabacoff.github.io/datavis/index.html"> Data Visulaization with R </a>
+<br> <a href = "https://developers.google.com/machine-learning/crash-course/"> Machine Learning Crash Course from Google </a>
 
 > Overall GPA: 4.375 ( straight As )
 <br> Junior Year GPA: 5.0 ( current )
