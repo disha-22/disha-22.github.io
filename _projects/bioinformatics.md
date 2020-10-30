@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Bioinformatics Pipeline applied to Transcriptomics'
 subtitle: 'Internship - Summer 2020'
 date: 2018-06-30 00:00:00
@@ -34,7 +34,7 @@ DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functi
 
 <div class="gallery" data-columns="2">
 	<img src="/images/demo/r4.jpg">
-	<img src="/images/demo/r1.jpg">
+	<img src="/images/demo/sa-certificate.jpg">
 	<img src="/images/demo/r2.jpg">
 </div>
 
