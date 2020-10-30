@@ -13,6 +13,9 @@ Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors, 
 Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
+> Independent Study
+<br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a>
+
 > Overall GPA: 4.375 ( straight As )
 <br> Junior Year GPA: 5.0 
 <br> AP Scores: 5 ( Calculus BC, European History )
