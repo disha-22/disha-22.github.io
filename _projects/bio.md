@@ -12,7 +12,7 @@ featured_image: '/images/demo/bio3.png'
 
 An extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data.
 With the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used in the internship to further deepen my understanding of Bioinformatics. 
-And I am sharing my passion by introducing high school students to Bioinformatics via an online workshop. 
+I am also sharing my passion by introducing high school students to Bioinformatics and Data Science. 
 
 <hr>
   
