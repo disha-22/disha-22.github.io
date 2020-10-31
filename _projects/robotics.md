@@ -22,7 +22,7 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 
 
 <h6> Details </h6>
-> Participated in all aspects of Robot design, from concept to Competition ready Robot. This included design and prototyping for a variety of mechanisms such as drive-train, intake, outtake, elevator, vision systems all constrained by competition rules for dimensions and weight limits.  A large number of these components were then designed using CAD and fabricated in school machine shop using CNC, Lathes and other machining tools.  This was followed by assembly, testing and fine-tuning of the design  <br> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly design and prototype development for 2020 robot (no FRC due to Covid) <br> Fundraising: Cold calling local businesses <br> Finance: Mananging budget spreadsheet and ordering purchased components
+> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. This included design and prototyping for a variety of mechanisms such as drive-train, intake, outtake, elevator and vision systems - all constrained by competition rules for dimensions and weight limits.  A large number of these components were then designed using CAD and fabricated in school machine shop using CNC, Lathes and other machining tools.  This was followed by assembly, testing and fine-tuning of the design  <br> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly design and prototype development for 2020 robot (no FRC due to Covid) <br> Fundraising: Cold calling local businesses <br> Finance: Mananging budget spreadsheet and ordering purchased components
 
 
 ---
