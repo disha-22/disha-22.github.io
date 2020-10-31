@@ -17,7 +17,7 @@ This was an extremely challenging project that helped me get an understanding of
 <h6> Highlights </h6>
 > Applying big-data computing techniques to drive advances in fighting diseases such as Alzheimers and cancer.
 <br><br> <b>STEMaway Featured Student Speaker:</b> Bioinformatics Pathway
-<br><br> <b>sharing my passion by introducing high school students to Bioinformatics and Data Science. 
+<br><br> <b>Online Workshop</b>Created an online workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
