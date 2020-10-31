@@ -24,16 +24,18 @@ And I am sharing my passion by introducing high school students to Bioinformatic
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
-> <b>Bioconductor R Packages and GEO Database<b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
+> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
 <h6> Industry Tools </h6>
 > GitHub, R Studio, Asana, GSuite
 
 <h6> Details </h6>
-> Installing and using Bioconductor packages needed for gene expression analysis and routines necessary for statistical analysis such as removing outliers, and normalization.
+> Data collection: Acquiring datasets of interest from the GEO Database (<a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>)and converting it into the required format for the R workflow. 
+<br><br> Data analysis: Installing and using Bioconductor packages needed for gene expression analysis, normalization, and routines necessary for removing outliers. 
+<br><br> Functional analysis
 <br> Drawing statistically significant correlations between disease and genes expressed. 
-<br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analyses mentioned above.
+<br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analysis mentioned above.
 
 ---
 
