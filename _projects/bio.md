@@ -18,7 +18,7 @@ I am also sharing my passion by introducing high school students to Bioinformati
   
 <h6> Highlights </h6>
 > Applying big-data computing techniques to drive advances in fighting diseases such as Alzheimers and cancer.
-<br> STEMaway Featured Student Speaker: Bioinformatics Pathway
+<br><br> <b>STEMaway Featured Student Speaker:</b> Bioinformatics Pathway
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
