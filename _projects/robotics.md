@@ -12,7 +12,7 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 <hr>
   
 <h6> Highlights </h6>
-> Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
+> Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. Took on leadership roles in fundraising and finance. <br> Community awareness and outreach: Displayed and demonstrated our Robot at local elementary schools to help develop interest for Engineering among younger children
 
 <h6> Soft Skills </h6>
 > End-to-end Development process, Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership, Community outreach, Fundraising & Finance
