@@ -21,11 +21,11 @@ And I am sharing my passion by introducing high school students to Bioinformatic
 <br> STEMaway Featured Student Speaker: Bioinformatics Pathway
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management
+> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
-> Bioconductor R Packages, GEO Database, Quality Control (RLE boxplots, NUSE boxplots), Data visualization (PCA, Heatmaps, Volcano plots),
-DGE Analysis (Annotation, Gene filtering, Limma Analysis, Volcano plots), Functional Analysis (GO, KEGG, STRING database)
+> Bioconductor R Packages, GEO Database, Quality Control ( RLE boxplots, NUSE boxplots ), Data visualization ( PCA, Heatmaps, Volcano plots ),
+DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ), Functional Analysis ( GO, KEGG, STRING database )
 
 <h6> Industry Tools </h6>
 > GitHub, R Studio, Asana, GSuite
