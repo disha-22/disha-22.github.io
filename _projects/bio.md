@@ -31,7 +31,7 @@ I am also sharing my passion by introducing high school students to Bioinformati
 > GitHub, R Studio, Asana, GSuite
 
 <h6> Details </h6>
-> Data collection: Acquiring datasets of interest from the GEO Database (<a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>) and converting it into the required format for the R workflow. 
+> Data collection: Acquired datasets from the GEO Database (<a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>) and converted into the required R format to recreate the results from the following scientific paper <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
 <br><br> Data analysis: Installing and using Bioconductor packages needed for gene expression analysis, normalization, and routines necessary for removing outliers. 
 <br><br> Functional analysis
 <br> Drawing statistically significant correlations between disease and genes expressed. 
