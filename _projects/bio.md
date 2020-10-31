@@ -16,8 +16,8 @@ This was an extremely challenging project that helped me get an understanding of
   
 <h6> Highlights </h6>
 > Applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
-<br><br> <b>STEMaway Featured Student Speaker:</b> Was selected to present the Bioinformatics Pathway details in the STEMaway High School Showcase event.
-<br><br> <b>Deep Dive into Data Science Workshop</b> Used the knowledge from this internship to created an online workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
+<br><br> <b>STEMaway Featured Student Speaker:</b> Was selected as one of the presenters in the STEMaway High School Showcase event.
+<br><br> <b>Community outreach</b> Used the knowledge from this internship to created an online workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
