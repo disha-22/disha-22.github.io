@@ -2,7 +2,7 @@
 title: 'Competitive Robotics'
 subtitle: 'Regional Finalists - FRC 2019'
 date: 2018-05-30 00:00:00
-description: Design and Assembly <br> Fundraising and Finance <br> Community Outreach
+description: Robot Design and Assembly <br> Fundraising and Finance <br> Community Outreach
 featured_image: '/images/demo/r1.jpg'
 ---
 
@@ -15,14 +15,14 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 > Regional Finalist: <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br> Breadth of experience <br> Impact to community
 
 <h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership
+> End-to-end Development process, Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership, Community outreach, Fundraising
 
 <h6> Engineering Skills </h6>
-> Strategy driven Robot Prototyping & Design, CAD, Assembly, Troubleshooting
+> Strategy driven Robot Prototyping & Design, CAD of components using SolidWorks, Robot Assembly, Troubleshooting
 
 
 <h6> Details </h6>
-> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
+> Intake design and prototype development for 2019 robot <br> Ball storage and conveyor assembly design and prototype development for 2020 robot (no FRC due to Covid) <br> Fundraising <br> Finance
 
 
 ---
