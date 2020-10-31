@@ -40,7 +40,7 @@ This was an extremely challenging project that helped me get an understanding of
 <div class="gallery" data-columns="2">
 	<img src="/images/demo/bio.PNG">
 	<img src="/images/demo/sa-certificate.png">
-	<img src="/images/demo/r2.jpg">
+	<img src="/images/demo/bioinformatics-p.png">
 </div>
 
 
