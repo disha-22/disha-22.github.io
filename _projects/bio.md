@@ -34,8 +34,7 @@ I am also sharing my passion by introducing high school students to Bioinformati
 > Data collection: Acquired datasets from the GEO Database (<a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>) and converted into the required R format to recreate the results from the following scientific paper <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
 <br><br> Data analysis: Installing and using Bioconductor packages needed for statistical analysis ( for removing outliers ), normalization, and gene expression analysis. 
 <br><br> Functional analysis
-<br> Drawing statistically significant correlations between disease and genes expressed. 
-<br> Identify genes that could be potential prognostic markers for colorectal cancer based on the analysis mentioned above.
+<br> Drawing statistically significant correlations between disease and genes expressed. Specifically, identifying genes that could be potential prognostic markers for colorectal cancer.
 
 ---
 
