@@ -24,8 +24,8 @@ And I am sharing my passion by introducing high school students to Bioinformatic
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
-> Bioconductor R Packages, GEO Database, Quality Control ( RLE boxplots, NUSE boxplots ), Data visualization ( PCA, Heatmaps, Volcano plots ),
-DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ), Functional Analysis ( GO, KEGG, STRING database )
+> <b>Bioconductor R Packages and GEO Database<b> <br>Quality Control ( RLE boxplots, NUSE boxplots ), <br>Data visualization ( PCA, Heatmaps, Volcano plots ),
+<br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ), <br>Functional Analysis ( GO, KEGG, STRING database )
 
 <h6> Industry Tools </h6>
 > GitHub, R Studio, Asana, GSuite
