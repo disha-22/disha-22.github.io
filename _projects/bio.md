@@ -10,7 +10,7 @@ featured_image: '/images/demo/bio3.png'
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
-An extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. With the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used in the internship to further deepen my understanding of Bioinformatics. 
+This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. With the knowledge and confidence gained from this internship, I am now trying out variations of the pipeline used in the internship to further deepen my understanding of Bioinformatics. 
 
 <hr>
   
