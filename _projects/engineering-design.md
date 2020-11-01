@@ -2,12 +2,12 @@
 title: 'Engineering Design Summer Program'
 subtitle: 'John Hopkins Center for Talented Youth'
 date: 2018-01-30 00:00:00
-description: Project oriented learning <br> International Participation <br> Residential Camp at UC Santa Cruz
+description: Project oriented learning <br> International Participation <br> Residential Summer Program at UC Santa Cruz
 featured_image: '/images/r1.jpg'
 ---
 
 <br>
-Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a> before starting High School. 
+This three week residential summer program at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. Detaiuls: <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a>
 
 <hr>
   
@@ -22,9 +22,9 @@ Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/">
 
 
 <h6> Details </h6>
-> This three week residential summer program at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. 
+> 
 <br><br> 
-TODO for Disha - Describe your experience (evaluation below and course content in https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/ for reference.
+TODO - Describe experience (evaluation below and course content in https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/ for reference.
 
 ---
 
