@@ -1,8 +1,8 @@
 ---
 title: 'Engineering Design Camp'
-subtitle: 'John Hopkins Center of Talented Youth'
+subtitle: 'Hosted by John Hopkins Center of Talented Youth'
 date: 2018-01-30 00:00:00
-description: Robot Design and Assembly <br> Fundraising and Finance <br> Community Outreach
+description: Residential Camp at UC Santa Cruz<br> Project oriented learning <br> International Participation
 featured_image: '/images/r1.jpg'
 ---
 
