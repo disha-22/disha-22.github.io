@@ -7,7 +7,7 @@ featured_image: '/images/r1.jpg'
 ---
 
 <br>
-Introduction to : <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a> before starting High School. 
+Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a> before starting High School. 
 
 <hr>
   
