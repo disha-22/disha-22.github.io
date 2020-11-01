@@ -30,9 +30,8 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 <h2>Experience</h2>
 
-> Program Coordinator at STEMaway ( August 2020 )
-<br> Bioinformatics Virtual-Internship at STEMaway ( Summer 2020 )
-<br> Shadowed Professor Sudeshna Das at the Department of Neurology at Harvard Medical ( Summer 2019 )
+> Bioinformatics Virtual-Internship at STEMaway ( Summer 2020 )
+<br> Shadowed a team working on Alzheimer's research at the Department of Neurology at Harvard Medical School ( Summer 2019 )
 <br> Principles of Engineering Design - John Hopkins CTY Camp ( Summer 2018 )
 
 <hr style="height:5px;color:black">
