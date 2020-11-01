@@ -33,6 +33,7 @@ Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/">
 
 <div class="gallery" data-columns="2">
 	<img src="/images/cty.JPG">
+	<img src="/images/cty-qual.JPG">
 </div>
 
 
