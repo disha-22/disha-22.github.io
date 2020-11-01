@@ -12,7 +12,7 @@ Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/">
 <hr>
   
 <h6> Highlights </h6>
-> <b> Winner </b> of Hydraulic Robot challenge <br><br> <b>Breadth of experience:</b> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. Team participation and took on leadership roles in fundraising and finance. <br><br> <b>Community awareness and outreach:</b> Displayed and demonstrated our Robot at local elementary schools to help develop interest for Engineering among younger children
+> Qualified as JHU CTY <a href="https://cty.jhu.edu/set/"> SET Scholar  </a> with Grand Honors <br><br> <b> Winner </b> of Hydraulic Robot challenge <br><br> <b>Breadth of experience:</b> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. Team participation and took on leadership roles in fundraising and finance. <br><br> <b>Community awareness and outreach:</b> Displayed and demonstrated our Robot at local elementary schools to help develop interest for Engineering among younger children
 
 <h6> Soft Skills </h6>
 > End-to-end Development process, Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership, Community Outreach, Fundraising & Finance
