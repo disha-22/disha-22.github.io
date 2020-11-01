@@ -7,8 +7,7 @@ featured_image: '/images/r1.jpg'
 ---
 
 <br>
-This three week residential summer program at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. Detaiuls: <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a>
-
+This three week residential <a href="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> summer program </a> at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. 
 <hr>
   
 <h6> Highlights </h6>
