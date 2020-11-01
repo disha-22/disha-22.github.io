@@ -1,0 +1,48 @@
+---
+title: 'Engineering Design Camp'
+subtitle: 'John Hopkins Center of Talented Youth'
+date: 2018-01-30 00:00:00
+description: Robot Design and Assembly <br> Fundraising and Finance <br> Community Outreach
+featured_image: '/images/r1.jpg'
+---
+
+<br>
+Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
+
+<hr>
+  
+<h6> Highlights </h6>
+> <b>Regional Finalist:</b> <a href="https://frc-events.firstinspires.org/team/972"> FRC 2019 </a> <br><br> <b>Breadth of experience:</b> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. Team participation and took on leadership roles in fundraising and finance. <br><br> <b>Community awareness and outreach:</b> Displayed and demonstrated our Robot at local elementary schools to help develop interest for Engineering among younger children
+
+<h6> Soft Skills </h6>
+> End-to-end Development process, Teamwork, Technical Presentation, Design Reviews, Competition Strategy Development, Leadership, Community Outreach, Fundraising & Finance
+
+<h6> Engineering Skills </h6>
+> Strategy driven Robot Prototyping & Design, CAD of components using SolidWorks, Robot Assembly, Troubleshooting
+
+
+<h6> Details </h6>
+> Participated in all aspects of Robot design, from concept phase to delivering a Competition ready Robot. 
+<br><br> This included design and prototyping for a variety of mechanisms such as drive-train, intake, outtake, elevator and vision systems - all constrained by competition rules for dimensions and weight limits, as well as developing a game strategy for maximizing points by developing a detailed understanding of the <a href="https://firstfrc.blob.core.windows.net/frc2020/Manual/2020FRCGameSeasonManual.pdf"> FRC Game Manual </a>.  
+<br> A large number of these components were then designed using Solidworks CAD and fabricated in school machine shop using CNC, Lathes and other machining tools.  This was followed by assembly, testing and fine-tuning of the design. 
+<br><br> My major design contributions were:  <br> Intake design and prototype development for 2019 robot (<i> CAD shown in the bottom right picture and in-use at the competition in the left picture </i>) <br> Ball storage and conveyor assembly design and prototype development for 2020 robot ( FRC got cancelled due to Covid ) <br><br>I also took on multiple leadership tasks in my second year of Robotics: <br> <b>Fundraising:</b> Grant writing and cold calling local businesses <br> <b>Finance:</b> Mananging budget spreadsheet and ordering purchased components. <br> <b>Community awareness and outreach:</b> Displayed and demonstrated our Robot at local elementary schools to help develop interest for Engineering among younger children
+
+
+---
+
+
+<div class="gallery" data-columns="2">
+	<img src="/images/r4.jpg">
+	<img src="/images/r1.jpg">
+	<img src="/images/r2.jpg">
+</div>
+
+
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdRBp6AnNCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
