@@ -15,7 +15,7 @@ Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/">
 > Qualified as JHU CTY <a href="https://cty.jhu.edu/set/"> SET Scholar  </a> with Grand Honors <br><br> <b> Winner </b> of Hydraulic Robot challenge <br><br> <b>Breadth of experience:</b> First exposure to solving Engineering problems using Analytical skills and teamwork <br><br> <b>Personal Development:</b> Lived separated from family for three weeks and learned to work with talented students from around the world. 
 
 <h6> Soft Skills </h6>
-> Teamwork, Brainstorming, Independent living
+> Teamwork, Brainstorming, Project planning, Independent living
 
 <h6> Engineering Skills </h6>
 > Hands-on analysis and design, Theory and application of Engineering principles
@@ -24,7 +24,7 @@ Introduction to  <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/">
 <h6> Details </h6>
 > This three week residential summer program at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. 
 <br><br> 
-
+TODO for Disha - Describe your experience (evaluation below and course content in https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/ for reference.
 
 ---
 
