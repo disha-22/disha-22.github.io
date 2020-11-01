@@ -1,13 +1,13 @@
 ---
-title: 'Engineering Design Camp'
-subtitle: 'John Hopkins Center of Talented Youth Program'
+title: 'Engineering Design Summer Program'
+subtitle: 'John Hopkins Center of Talented Youth'
 date: 2018-01-30 00:00:00
 description: Project oriented learning <br> International Participation <br> Residential Camp at UC Santa Cruz
 featured_image: '/images/r1.jpg'
 ---
 
 <br>
-Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.org/"> 972 IronClaw </a> in Freshman and Sophomore years. 
+Introduction to : <a href ="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> Pinciples of Engineering </a> before starting High School. 
 
 <hr>
   
@@ -31,10 +31,8 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 ---
 
 
-<div class="gallery" data-columns="2">
-	<img src="/images/r4.jpg">
-	<img src="/images/r1.jpg">
-	<img src="/images/r2.jpg">
+<div class="gallery" data-columns="1">
+	<img src="/images/cty.png">
 </div>
 
 
