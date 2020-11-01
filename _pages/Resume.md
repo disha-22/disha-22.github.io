@@ -1,7 +1,7 @@
 ---
 title: Education. &nbsp; Experience. &nbsp; Awards
 subtitle: Skills listed with individual projects
-featured_image: /images/demo/resume3.jpg
+featured_image: /images/resume3.jpg
 ---
         
  <h2><span>Education</span></h2>

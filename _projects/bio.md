@@ -3,10 +3,10 @@ title: 'Bioinformatics Pipeline applied to Transcriptomics'
 subtitle: 'Internship - Summer 2020'
 date: 2018-06-30 00:00:00
 description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
-featured_image: '/images/demo/bio3.png'
+featured_image: '/images/bio3.png'
 ---
 
-![](/images/demo/bioinformatics-p.png)
+![](/images/bioinformatics-p.png)
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
@@ -38,9 +38,9 @@ This was an extremely challenging project that helped me get an understanding of
 ---
 
 <div class="gallery" data-columns="2">
-	<img src="/images/demo/bio.PNG">
-	<img src="/images/demo/sa-certificate.png">
-	<img src="/images/demo/bioinformatics-p.png">
+	<img src="/images/bio.PNG">
+	<img src="/images/sa-certificate.png">
+	<img src="/images/heatmap3.png">
 </div>
 
 

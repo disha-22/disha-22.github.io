@@ -3,7 +3,7 @@ title: 'Competitive Robotics'
 subtitle: 'Regional Finalists - FRC 2019'
 date: 2018-05-30 00:00:00
 description: Robot Design and Assembly <br> Fundraising and Finance <br> Community Outreach
-featured_image: '/images/demo/r1.jpg'
+featured_image: '/images/r1.jpg'
 ---
 
 <br>
@@ -32,9 +32,9 @@ Member of the Los Gatos High School Robotics Team: <a href ="http://ironclaw972.
 
 
 <div class="gallery" data-columns="2">
-	<img src="/images/demo/r4.jpg">
-	<img src="/images/demo/r1.jpg">
-	<img src="/images/demo/r2.jpg">
+	<img src="/images/r4.jpg">
+	<img src="/images/r1.jpg">
+	<img src="/images/r2.jpg">
 </div>
 
 
