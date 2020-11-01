@@ -2,7 +2,7 @@
 title: 'Engineering Design Camp'
 subtitle: 'John Hopkins Center of Talented Youth Program'
 date: 2018-01-30 00:00:00
-description: Residential Camp at UC Santa Cruz<br> Project oriented learning <br> International Participation
+description: Project oriented learning <br> International Participation <br> Residential Camp at UC Santa Cruz
 featured_image: '/images/r1.jpg'
 ---
 
