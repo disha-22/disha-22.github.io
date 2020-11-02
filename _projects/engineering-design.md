@@ -11,7 +11,7 @@ This three week residential <a href="https://cty.jhu.edu/summer/docs/syllabi/egr
 <hr>
   
 <h6> Highlights </h6>
-> <b> Invited Participant: </b>Qualified as JHU Center for Talented Youth (CTY)<a href="https://cty.jhu.edu/set/"> SET Scholar  </a> with Grand Honors <br><br> <b> Winner: </b> Hydraulic Robot challenge <br><br> <b>Breadth of experience:</b> First exposure to solving engineering problems using analytical skills and teamwork <br><br> <b>Personal Development:</b> Lived separated from family for three weeks and learned to work with talented students from around the world. 
+> <b> Invited Participant: </b>Qualified as JHU Center for Talented Youth (CTY)<a href="https://cty.jhu.edu/set/"> SET Scholar  </a> with Grand Honors <br><br> <b> Winner: </b> Hydraulic Robot challenge <br><br> <b>Breadth of experience:</b> First exposure to solving engineering problems using analytical skills and teamwork <br><br> <b>Personal Development:</b> Learned to work with talented students from around the world in an university setting.
 
 <h6> Soft Skills </h6>
 > Teamwork, Brainstorming, Project planning, Independent living
