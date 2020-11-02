@@ -19,7 +19,7 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 <br> <a href = "https://rkabacoff.github.io/datavis/index.html"> Data Visulaization with R </a>
 <br> <a href = "https://developers.google.com/machine-learning/crash-course/"> Machine Learning Crash Course from Google </a>
 
-> Overall GPA: 4.375 ( straight As )
+> Overall GPA: 4.3125 ( straight As )
 <br> Junior Year GPA: 5.0 ( current )
 <br> AP Scores: 5 ( Calculus BC, European History )
 <br> PSAT Score: 1490 ( Sophomore Year )
