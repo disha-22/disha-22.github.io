@@ -3,7 +3,7 @@ title: 'Engineering Design Summer Program'
 subtitle: 'John Hopkins Center for Talented Youth'
 date: 2018-01-30 00:00:00
 description: Project oriented learning <br> International Participation <br> Residential Summer Program at UC Santa Cruz
-featured_image: '/images/cty.JPG'
+featured_image: '/images/cty1.JPG'
 ---
 
 <br>
@@ -18,12 +18,6 @@ This three week residential <a href="https://cty.jhu.edu/summer/docs/syllabi/egr
 
 <h6> Engineering Skills </h6>
 > Hands-on analysis and design, Theory and application of Engineering principles
-
-
-<h6> Details </h6>
-> 
-<br><br> 
-TODO - Describe experience (evaluation below and course content in https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/ for reference.
 
 ---
 
