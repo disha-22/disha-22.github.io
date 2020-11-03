@@ -31,11 +31,6 @@ featured_image: '/images/bio3.png'
 
 ---
 
-<div class="gallery" data-columns="2">
-	<img src="/images/bio.PNG">
-	<img src="/images/sa-certificate.png">
-	<img src="/images/heatmap3.png">
-</div>
 
 
 ---
