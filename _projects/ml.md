@@ -26,8 +26,8 @@ featured_image: '/images/bio3.png'
 
 <h6> Details </h6>
 > <b>Data Collection</b>: Used Beautiful Soup and Selenium to get data from DiscourseHub Community forums.
-<br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models
-<br><br> <b>Calculate similarity between posts and recommend:</b> Vectorized data, and computed the similarity matrix using TFD-IF and BERT.
+<br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models.
+<br><br> <b>Calculate similarity between posts and recommend:</b> Vectorized data, and computed the similarity matrix using cosine similarity.
 <br><br> <b>Deployment:</b> Building a simple web app using Streamlit.
 
 ---
