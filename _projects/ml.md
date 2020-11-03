@@ -1,5 +1,5 @@
 ---
-title: 'Recommendation and Classification Systems using Natural Language Processing'
+title: 'Recommender System using Natural Language Processing'
 subtitle: 'Independent Project - Ongoing'
 date: 2018-03-30 00:00:00
 description: 
