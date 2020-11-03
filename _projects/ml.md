@@ -3,7 +3,7 @@ title: 'Recommendation and Classification Systems using Natural Language Process
 subtitle: 'Independent Project - Ongoing'
 date: 2018-03-30 00:00:00
 description: 
-featured_image: '/images/m2.png'
+featured_image: '/images/ml2.png'
 ---
 
 <h4>Recommendation and Classification Systems using Natural Language Processing</h4>
