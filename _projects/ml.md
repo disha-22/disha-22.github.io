@@ -27,7 +27,7 @@ featured_image: '/images/bio3.png'
 <h6> Details </h6>
 > <b>Data Collection</b>: Used Beautiful Soup and Selenium to get data from DiscourseHub Community forums.
 <br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models.
-<br><br> <b>Calculate similarity between posts and recommend:</b> Vectorized data, and computed the similarity matrix. 
+<br><br> <b>Calculate similarity between posts and recommend posts/ classify posts:</b> Implemented TF-IDF to obtain features in the form of vectorized matrix. Used BERT to overcome the shortcomings of TF-IDF in classifying an unlabelled post.
 <br><br> <b>Deployment:</b> Building a simple web app using Streamlit.
 
 ---
