@@ -1,6 +1,6 @@
 ---
 title: 'Engineering Design Summer Program'
-subtitle: 'John Hopkins Center for Talented Youth'
+subtitle: 'John Hopkins Center for Talented Youth - Summer 2018'
 date: 2018-01-30 00:00:00
 description: Project oriented learning <br> International Participation <br> Residential Summer Program at UC Santa Cruz
 featured_image: '/images/cty1.png'

@@ -6,14 +6,14 @@ description:
 featured_image: '/images/bio3.png'
 ---
 
-<h4>Recommendation and Classification Systems using Natural Language Processing</h4>
+<h4>Recommender System using Natural Language Processing</h4>
 
-. 
 
 <hr>
   
 <h6> Highlights </h6>
-> 
+> End-to-end execution of a Machine Learning project from data collection to model selection and training to deployment.
+> Self-driven project with help from online mentoring site.
 
 <h6> Soft Skills </h6>
 > Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
@@ -21,16 +21,13 @@ featured_image: '/images/bio3.png'
 <h6> Machine Learning Skills </h6>
 > 
 <h6> Industry Tools </h6>
-> Colab, Anaconda, GitHub
+> Colab, Anaconda, StreamLit, GitHub
 
 <h6> Details </h6>
-> Collect the data: We will pick the DiscourseHub Community forums as our main data resource. You can either scrap one or several forums.
-Explore your data (EDA): After gathering our data, we will analyze it to understand the data and get familiar with it before feeding it to ML models.
-Calculate similarity between posts and recommend: We will vectorize our data, and compute the similarity matrix then use it to recommend posts similar to a certain post.
-Train ML classifiers and classify a post into its appropriate category.
-Compare and choose the best approach: evaluate the results of step 3 and 4 and choose the best one.
-Build a simple web app using Flask or Streamlit.
-Deploy your web app using AWS or Heroku or some other service
+> <b>Data Collection</b>: Used Beautiful Soup and Selenium to get data from DiscourseHub Community forums.
+<br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models
+<br><br> <b>Calculate similarity between posts and recommend: Vectorized data, and computed the similarity matrix uding TFD-IF and BERT.
+<br><br> <b>Deployment:</b>Building a simple web app using Streamlit.
 
 ---
 
