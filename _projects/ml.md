@@ -14,7 +14,6 @@ featured_image: '/images/bio3.png'
 <h6> Highlights </h6>
 > End-to-end execution of a Machine Learning project from data collection to training models to deployment.
 <br><br> Familiarity with new technologies such as Bidirectional Representation for Transformers (BERT), that was proposed by Google Research in 2018.
-<br><br> Explored custom data augmentation techniques to improve model results.
 
 <h6> Soft Skills </h6>
 > Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
