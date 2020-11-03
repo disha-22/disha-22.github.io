@@ -1,20 +1,20 @@
 ---
-title: 'Recommender System using Natural Language Processing'
+title: 'Recommendation and Classification Systems using Natural Language Processing'
 subtitle: 'Independent Project - Ongoing'
 date: 2018-03-30 00:00:00
 description: 
 featured_image: '/images/bio3.png'
 ---
 
-<h4>Recommender System using Natural Language Processing</h4>
+<h4>Recommendation and Classification Systems using Natural Language Processing</h4>
 
 
 <hr>
   
 <h6> Highlights </h6>
 > End-to-end execution of a Machine Learning project from data collection to training models to deployment.
-<br><br> Familiarity with Bidirectional Representation for Transformers (BERT), that was proposed by Google Research in 2018.
-<br><br> Explored data augmentation techniques to improve model results.
+<br><br> Familiarity with new technologies such as Bidirectional Representation for Transformers (BERT), that was proposed by Google Research in 2018.
+<br><br> Explored custom data augmentation techniques to improve model results.
 
 <h6> Soft Skills </h6>
 > Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
