@@ -12,8 +12,9 @@ featured_image: '/images/bio3.png'
 <hr>
   
 <h6> Highlights </h6>
-> End-to-end execution of a Machine Learning project from data collection to model selection and training to deployment.
-> Self-driven project with help from online mentoring site.
+> End-to-end execution of a Machine Learning project from data collection to training models to deployment.
+<br><br> Familiarity with Bidirectional Representation for Transformers (BERT), that was proposed by Google Research in 2018.
+<br><br> Explored data augmentation techniques to improve model results.
 
 <h6> Soft Skills </h6>
 > Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
@@ -26,7 +27,7 @@ featured_image: '/images/bio3.png'
 <h6> Details </h6>
 > <b>Data Collection</b>: Used Beautiful Soup and Selenium to get data from DiscourseHub Community forums.
 <br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models
-<br><br> <b>Calculate similarity between posts and recommend:</b> Vectorized data, and computed the similarity matrix uding TFD-IF and BERT.
+<br><br> <b>Calculate similarity between posts and recommend:</b> Vectorized data, and computed the similarity matrix using TFD-IF and BERT.
 <br><br> <b>Deployment:</b> Building a simple web app using Streamlit.
 
 ---
