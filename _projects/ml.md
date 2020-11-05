@@ -19,7 +19,7 @@ featured_image: '/images/ml2.png'
 > Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
 
 <h6> Machine Learning Skills </h6>
-> 
+> Recommender Systems, Classification Systems, TF-IDF, BERT
 <h6> Industry Tools </h6>
 > Colab, Anaconda, StreamLit, GitHub
 
