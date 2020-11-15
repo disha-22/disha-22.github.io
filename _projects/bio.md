@@ -16,7 +16,7 @@ This was an extremely challenging project that helped me get an understanding of
   
 <h6> Highlights </h6>
 > <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
-<br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students.
+<br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
 <br><br> <b>Community Contributions:</b> Used the knowledge from this internship to created a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
 
 <h6> Soft Skills </h6>
@@ -45,3 +45,10 @@ This was an extremely challenging project that helped me get an understanding of
 
 
 ---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqxlLVqAvn0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
