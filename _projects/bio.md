@@ -17,7 +17,7 @@ This was an extremely challenging project that helped me get an understanding of
 <h6> Highlights </h6>
 > <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
 <br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
-<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. Currently working on converting the workshop to a e-workshop (https://beginnerbioinformatics.com)
+<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. Currently working on scaling the workshop to an <a  href="https://beginnerbioinformatics.com"> e-workshop. </a>
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
