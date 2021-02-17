@@ -14,16 +14,15 @@ Sophomore Year: AP Calc BC, AP Euro, English Honors, Robotics<br>
 Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 > Independent Study
-<br> AP Comp Science A ( auditing school course ) 
 <br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
 <br> <a href = "https://rkabacoff.github.io/datavis/index.html"> Data Visulaization with R </a>
 <br> <a href = "https://developers.google.com/machine-learning/crash-course/"> Machine Learning Crash Course from Google </a>
 
-> Overall GPA: 4.3125 ( straight As )
+> Overall GPA: 4.42 ( straight As )
 <br> Junior Year GPA: 5.0 ( current )
 <br> AP Scores: 5 ( Calculus BC, European History )
 <br> PSAT Score: 1490 ( Sophomore Year )
-<br> Non-academic Courses: Orchestra, JV Tennis
+<br> Non-academic Courses: Varsity Tennis, Orchestra
 
 
 <hr style="height:5px;color:black">
@@ -38,7 +37,8 @@ Freshman Year: Bio Honors, Trig & Precalc Honors, English Honors, Robotics
 
 <h2>Awards</h2>
 <h4> High School: </h4>
-> First Robotics Competition: Regional Finalists
+> NCWIT Aspirations in Computing Award: Bay Area Regional Winner
+<br> First Robotics Competition: Regional Finalists
 <br> STEMaway Featured Student Speaker: Bioinformatics Pathway
 <br> California Math League: Ranked 2nd
 <br> French Department Award
