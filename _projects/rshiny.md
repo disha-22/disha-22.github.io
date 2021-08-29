@@ -6,7 +6,7 @@ description: An R Shiny educational app to guide users through a interactive tra
 featured_image: '/images/app-main.jpg'
 ---
 
-![](/images/bioinformatics-p.png)
+![](/images/app1.PNG)
 
 <h4>An R Shiny educational app to guide users through a interactive transcriptomics pipeline</h4>
 
