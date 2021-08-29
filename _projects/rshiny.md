@@ -24,6 +24,7 @@ This was an extremely challenging project that helped me get an understanding of
 
 <h6> Bioinformatics Skills </h6>
 > <b>R Shiny</b>
+
 > <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
@@ -38,10 +39,9 @@ This was an extremely challenging project that helped me get an understanding of
 
 ---
 
-<div class="gallery" data-columns="2">
-	<img src="/images/bio.PNG">
-	<img src="/images/sa-certificate.png">
-	<img src="/images/heatmap3.png">
+<div class="gallery" data-columns="1">
+	<img src="/images/app2.PNG">
+	<img src="/images/app3.PNG">
 </div>
 
 
