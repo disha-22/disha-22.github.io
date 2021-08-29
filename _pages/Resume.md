@@ -32,7 +32,7 @@ featured_image: /images/resume3.jpg
 > Bioinformatics Project Management Lead at STEMaway
 <br> SUMMER 2021
 <br> Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
-<br> 
+ 
 > Math Intern at Edfinity 
 <br> APRIL 2021- OCTOBER 2021
 <br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math curricula. 
