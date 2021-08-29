@@ -36,17 +36,17 @@ featured_image: /images/resume3.jpg
 > Math Intern at Edfinity 
 <br> APRIL 2021- OCTOBER 2021
 <br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math curricula. 
-<br> 
-<h4> The Bioinformatics Academy </h4>
-FALL 2020 - WINTER 2021
+
+> The Bioinformatics Academy 
+<br> FALL 2020 - WINTER 2021
 <br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
-<br> 
-<h4> Bioinformatics Virtual-Internship at STEMaway </h4>
-SUMMER 2020
+ 
+> Bioinformatics Virtual-Internship at STEMaway 
+<br> SUMMER 2020
 <br> Bioinformatics Pipeline applied to Transcriptomics. Identified significant genes for colorectal cancer and gained experience with a general transcriptomics workflow. <a href="https://disha-22.github.io/project/bio">Details here. </a>
-<br> 
-<h4> Competitive Robotics </h4>
-FALL 2018 - SPRING 2019
+
+> Competitive Robotics 
+<br> FALL 2018 - SPRING 2019
 <br>FRC 2019 Regional finalist as part of Los Gatos High School Robotics Team. <a href="https://disha-22.github.io/project/robotics">Details here.</a> Learned strategy driven robot prototyping & design, CAD of components using SolidWorks, robot assembly, troubleshooting.
 
 <hr style="height:5px;color:black">
