@@ -1,6 +1,6 @@
 ---
 title: 'sMAP: Standard Microarray Analysis Pipeline App'
-subtitle: 'Internship - Summer 2021'
+subtitle: 'R Shiny App Development - Summer 2021'
 date: 2021-06-30 00:00:00
 description: An R Shiny educational app to guide users through a interactive transcriptomics pipeline
 featured_image: '/images/app-main.jpg'
@@ -15,7 +15,7 @@ featured_image: '/images/app-main.jpg'
 <hr>
   
 <h6> Highlights </h6>
-> <b>Career Foundations:</b> Managed project logistics throughout the developement period and simultaneously contributed to sMAP's backend code and project site developement. 
+> <b>Career Foundations:</b> Managed project logistics throughout the developement period and simultaneously contributed to sMAP's backend code and project site developement 
 <br><br> <b>Leadership Award:</b> For excellent pathway-wide project management leadership
 
 <h6> Soft Skills </h6>
