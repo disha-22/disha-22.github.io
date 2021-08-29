@@ -3,7 +3,7 @@ title: 'Math Curriculum Development'
 subtitle: 'Math Intern at Edfinity - April 2021 to October 2021'
 date: 2019-03-30 00:00:00
 description: Development and testing of math curricula for college students
-featured_image: '/images/cty1.png'
+featured_image: '/images/shutterstock_317431127.jpg'
 ---
 
 <br>
