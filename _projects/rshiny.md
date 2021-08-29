@@ -41,7 +41,7 @@ This was an extremely challenging project that helped me get an understanding of
 
 <div class="gallery" data-columns="1">
 	<img src="/images/app2.PNG">
-	<img src="/images/app3.PNG">
+	<img src="/images/app3.png">
 </div>
 
 
