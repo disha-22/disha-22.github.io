@@ -23,6 +23,7 @@ This was an extremely challenging project that helped me get an understanding of
 > Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation,Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
+> <b>R Shiny</b>
 > <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
