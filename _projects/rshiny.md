@@ -32,11 +32,8 @@ This was an extremely challenging project that helped me get an understanding of
 > GitHub, R Shiny, R Studio, Trello, GSuite, Airtable, Typeform
 
 <h6> Details </h6>
-> <b>Data collection:</b> Acquired datasets <a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>, <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21510"> GSE21510 </a> from the GEO Database to recreate the results from the following scientific paper: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
-<br><br> <b>Data analysis:</b> Installed and used Bioconductor packages to normalize the data and remove outliers.
-<br><br> <b>Statistical analysis:</b> Used statistical methods to perform differential gene expression analysis. 
-<br><br> <b>Functional analysis:</b> Drew statistically significant correlations between disease and genes expressed. Specifically, identified genes that could be potential prognostic markers for colorectal cancer.
-
+> <b>sMAP</b> was made to help users understand a standard transcriptomics pipeline by taking them through the steps of microarray analysis. sMAP has an interactive user interface where users upload a GEO dataset and explore functions for quality control, statistical analysis, and functional analysis to find potential biomarkers.
+> sMAP’s development team was brought together via STEM-Away, a platform for virtual internships. Our team is made up of participants in STEM-Away’s bioinformatics pathway who wanted to challenge themselves by taking on the R Shiny App project. We organized our team into five groups, respectively in charge of developing code for the transcriptomics pipeline, implementing code in R Shiny, formatting the layout of the R Shiny App, managing GitHub and code documentation, and producing this GitHub page and our documentation site.
 ---
 
 <div class="gallery" data-columns="1">
