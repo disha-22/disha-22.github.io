@@ -15,9 +15,8 @@ featured_image: '/images/app-main.jpg'
 <hr>
   
 <h6> Highlights </h6>
-> <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
-<br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
-<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. Currently working on scaling the workshop to an <a  href="https://beginnerbioinformatics.com"> e-workshop (https://beginnerbioinformatics.com). </a>
+> <b>Career Foundations:</b> Managed project logistics throughout the developement period and simultaneously contributed to sMAP's backend code and project site developement. 
+<br><br> <b>Leadership Award:</b> For excellent pathway-wide project management leadership
 
 <h6> Soft Skills </h6>
 > Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation,Self-Assessment, Time and Task Management, Troubleshooting
