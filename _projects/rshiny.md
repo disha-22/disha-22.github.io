@@ -33,6 +33,7 @@ This was an extremely challenging project that helped me get an understanding of
 
 <h6> Details </h6>
 > <b>sMAP</b> was made to help users understand a standard transcriptomics pipeline by taking them through the steps of microarray analysis. sMAP has an interactive user interface where users upload a GEO dataset and explore functions for quality control, statistical analysis, and functional analysis to find potential biomarkers.
+
 > sMAP’s development team was brought together via STEM-Away, a platform for virtual internships. Our team is made up of participants in STEM-Away’s bioinformatics pathway who wanted to challenge themselves by taking on the R Shiny App project. We organized our team into five groups, respectively in charge of developing code for the transcriptomics pipeline, implementing code in R Shiny, formatting the layout of the R Shiny App, managing GitHub and code documentation, and producing this GitHub page and our documentation site.
 ---
 
