@@ -30,7 +30,7 @@ featured_image: /images/resume3.jpg
 <h2>Projects/ Internships</h2>
 <h4> Bioinformatics Project Management Lead at STEMaway </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">SUMMER 2021</em></p>
-Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page. </a>
+Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
 <br> 
 <h4> Math Intern at Edfinity </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">APRIL 2021- OCTOBER 2021</em></p>
@@ -38,15 +38,15 @@ Paid intern at Edfinity, an educational technology platform funded by the Nation
 <br> 
 <h4> The Bioinformatics Academy </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">FALL 2020 - WINTER 2021</em></p>
-Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. Link to sample module from the online workshop and link to free ebook on Google Play. Spread to students of six schools in the US and India.
+Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
 <br> 
 <h4> Bioinformatics Virtual-Internship at STEMaway </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">SUMMER 2020</em></p>
-Bioinformatics Pipeline applied to Transcriptomics. Identified significant genes for colorectal cancer and gained experience with a general transcriptomics workflow. Details here. 
+Bioinformatics Pipeline applied to Transcriptomics. Identified significant genes for colorectal cancer and gained experience with a general transcriptomics workflow. <a href="https://disha-22.github.io/project/bio">Details here. </a>
 <br> 
 <h4> Competitive Robotics </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">FALL 2018 - SPRING 2019</em></p>
-FRC 2019 Regional finalist as part of Los Gatos High School Robotics Team. Details here. Learned strategy driven robot prototyping & design, CAD of components using SolidWorks, robot assembly, troubleshooting.
+FRC 2019 Regional finalist as part of Los Gatos High School Robotics Team. <a href="https://disha-22.github.io/project/robotics">Details here.</a> Learned strategy driven robot prototyping & design, CAD of components using SolidWorks, robot assembly, troubleshooting.
 
 <hr style="height:5px;color:black">
 
