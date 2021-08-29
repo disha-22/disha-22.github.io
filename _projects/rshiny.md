@@ -10,7 +10,7 @@ featured_image: '/images/app-main.jpg'
 
 <h4>An R Shiny educational app to guide users through a interactive transcriptomics pipeline</h4>
 
-This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. 
+"My most enjoyable moments were when tasks/the project in general began to function how I hoped. For example, after a two or so weeks of the project, working with Sam and Nikita for setting up the project's outline the initial chaos of the project began to settle as participants got a better understanding of our goal. Seeing things beginning to run smoothly was very rewarding as a project management lead. Similarly, when I got R Shiny code that I worked on for a while to work (e.g., my volcano plot), I felt overjoyed."
 
 <hr>
   
@@ -23,9 +23,8 @@ This was an extremely challenging project that helped me get an understanding of
 > Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation,Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
-> <b>R Shiny</b>
-
-> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
+> <b>R Shiny</b> ( Reactive Inputs & Outputs )
+<br> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
 <h6> Industry Tools </h6>
