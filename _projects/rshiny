@@ -1,1 +1,55 @@
+---
+title: 'sMAP: Standard Microarray Analysis Pipeline App'
+subtitle: 'Internship - Summer 2021'
+date: 2021-06-30 00:00:00
+description: An R Shiny educational app to guide users through a interactive transcriptomics pipeline
+featured_image: '/images/bio3.png'
+---
+
+![](/images/bioinformatics-p.png)
+
+<h4>An R Shiny educational app to guide users through a interactive transcriptomics pipeline</h4>
+
+This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. 
+
+<hr>
+  
+<h6> Highlights </h6>
+> <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
+<br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
+<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. Currently working on scaling the workshop to an <a  href="https://beginnerbioinformatics.com"> e-workshop (https://beginnerbioinformatics.com). </a>
+
+<h6> Soft Skills </h6>
+> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
+
+<h6> Bioinformatics Skills </h6>
+> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
+<br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
+
+<h6> Industry Tools </h6>
+> GitHub, R Studio, Asana, GSuite
+
+<h6> Details </h6>
+> <b>Data collection:</b> Acquired datasets <a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>, <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21510"> GSE21510 </a> from the GEO Database to recreate the results from the following scientific paper: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
+<br><br> <b>Data analysis:</b> Installed and used Bioconductor packages to normalize the data and remove outliers.
+<br><br> <b>Statistical analysis:</b> Used statistical methods to perform differential gene expression analysis. 
+<br><br> <b>Functional analysis:</b> Drew statistically significant correlations between disease and genes expressed. Specifically, identified genes that could be potential prognostic markers for colorectal cancer.
+
+---
+
+<div class="gallery" data-columns="2">
+	<img src="/images/bio.PNG">
+	<img src="/images/sa-certificate.png">
+	<img src="/images/heatmap3.png">
+</div>
+
+
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IMycrHaGAe8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
 
