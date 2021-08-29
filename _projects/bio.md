@@ -38,8 +38,8 @@ This was an extremely challenging project that helped me get an understanding of
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/bio.PNG">
 	<img src="/images/sa-certificate.png">
+	<img src="/images/bio.PNG">
 	<img src="/images/heatmap3.png">
 </div>
 
