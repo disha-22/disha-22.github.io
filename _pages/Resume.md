@@ -9,6 +9,7 @@ featured_image: /images/resume3.jpg
  <h4>Los Gatos High School </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
 >Significant Courses
+<br> College Courses: Differential Equations, Linear Algebra, Discrete Mathematics
 <br> Senior Year: AP Phys C, AP CS, AP Gov, Econ H, AP French, AP Lit
 <br> Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors
 <br> Sophomore Year: AP Calc BC, AP Euro, Eng 10 Honors, Robotics 
@@ -29,7 +30,7 @@ featured_image: /images/resume3.jpg
 
 <h2>Projects/ Internships</h2>
 <h4> Bioinformatics Project Management Lead at STEMaway </h4>
-<p style="font-family:verdana; font-size:20px"><em class="date">SUMMER 2021</em></p>
+<p style="font-family:verdana; font-size:18px">SUMMER 2021</p>
 Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
 <br> 
 <h4> Math Intern at Edfinity </h4>
