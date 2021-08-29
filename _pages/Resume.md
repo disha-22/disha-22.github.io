@@ -30,8 +30,8 @@ featured_image: /images/resume3.jpg
 
 <h2>Projects/ Internships</h2>
 <h4> Bioinformatics Project Management Lead at STEMaway </h4>
-<p style="font-family:verdana; font-size:18px">SUMMER 2021</p>
-Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
+<br> SUMMER 2021
+<br> Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
 <br> 
 <h4> Math Intern at Edfinity </h4>
 <p style="font-family:verdana; font-size:20px"><em class="date">APRIL 2021- OCTOBER 2021</em></p>
