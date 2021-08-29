@@ -30,23 +30,23 @@ featured_image: /images/resume3.jpg
 
 <h2>Projects/ Internships</h2>
 > Bioinformatics Project Management Lead at STEMaway
-<br> SUMMER 2021
+<br> Summer 2021
 <br> Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
  
 > Math Intern at Edfinity 
-<br> APRIL 2021- OCTOBER 2021
+<br> April 2021- October 2021
 <br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math curricula. 
 
 > The Bioinformatics Academy 
-<br> FALL 2020 - WINTER 2021
+<br> Fall 2020 - Winter 2021
 <br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
  
 > Bioinformatics Virtual-Internship at STEMaway 
-<br> SUMMER 2020
+<br> Summer 2020
 <br> Bioinformatics Pipeline applied to Transcriptomics. Identified significant genes for colorectal cancer and gained experience with a general transcriptomics workflow. <a href="https://disha-22.github.io/project/bio">Details here. </a>
 
 > Competitive Robotics 
-<br> FALL 2018 - SPRING 2019
+<br> Fall 2018 - Spring 2019
 <br>FRC 2019 Regional finalist as part of Los Gatos High School Robotics Team. <a href="https://disha-22.github.io/project/robotics">Details here.</a> Learned strategy driven robot prototyping & design, CAD of components using SolidWorks, robot assembly, troubleshooting.
 
 <hr style="height:5px;color:black">
