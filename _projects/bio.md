@@ -1,9 +1,9 @@
 ---
 title: 'Bioinformatics Pipeline applied to Transcriptomics'
-subtitle: 'Virtual-Internship + The Bioinformatics Academy'
-date: 2018-06-30 00:00:00
+subtitle: 'The Bioinformatics Academy + Virtual Internship'
+date: 2020-06-30 00:00:00
 description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
-featured_image: '/images/ba1.PNG'
+featured_image: '/images/ba-1.PNG'
 ---
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
@@ -43,9 +43,9 @@ I’ve taken the steps to share my learning by creating a comprehensive online a
 
 <div class="gallery" data-columns="1">
 	<img src="/images/sa-certificate.png">
-	<img src="/images/ba1.PNG">
-	<img src="/images/ba2.PNG">
-	<img src="/images/ba3.PNG">
+	<img src="/images/ba-1.PNG">
+	<img src="/images/ba-2.PNG">
+	<img src="/images/ba-3.PNG">
 </div>
 
 
