@@ -1,6 +1,6 @@
 ---
 title: 'Bioinformatics Pipeline applied to Transcriptomics'
-subtitle: 'Virtual-Internship - Summer 2020'
+subtitle: 'Virtual-Internship + The Bioinformatics Academy'
 date: 2018-06-30 00:00:00
 description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
 featured_image: '/images/app-main.jpg'
@@ -17,7 +17,11 @@ This was an extremely challenging project that helped me get an understanding of
 <h6> Highlights </h6>
 > <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
 <br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
-<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. Currently working on scaling the workshop to an <a  href="https://beginnerbioinformatics.com"> e-workshop (https://beginnerbioinformatics.com). </a>
+<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
+
+> The Bioinformatics Academy 
+<br> Fall 2020 - Winter 2021
+<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
