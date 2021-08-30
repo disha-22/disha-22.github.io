@@ -8,9 +8,7 @@ featured_image: '/images/ba-1.PNG'
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
-<em>"This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. 
-
-I’ve taken the steps to share my learning by creating a comprehensive online academy, The Bioinformatics Academy. In the academy, students build up computational skills until they can complete a basic bioinformatics pipeline."</em>
+<em>"This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. I’ve taken steps to share my learning by creating a comprehensive online academy, The Bioinformatics Academy. In the academy, students build up computational skills until they can complete a basic bioinformatics pipeline."</em>
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
