@@ -7,7 +7,7 @@ featured_image: '/images/cty1.png'
 ---
 
 <br>
-This three week residential <a href="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> summer program </a> at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. 
+<em>"This three week residential <a href="https://cty.jhu.edu/summer/docs/syllabi/egrd_1.pdf/"> summer program </a> at University of California Santa Cruz gave me an opportunity to learn basic engineering concepts and to apply them when building real life projects - like bridges, roller-coasters and hydraulic robots - under the specified constraints. This was in some sense the start of my STEM journey in high school"</em>
 <hr>
   
 <h6> Highlights </h6>
