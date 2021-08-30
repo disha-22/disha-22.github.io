@@ -6,7 +6,7 @@ description: Transcriptomics Data Analysis using Bioconductor R Packages - From 
 featured_image: '/images/ba-1.PNG'
 ---
 
-![](/images/bioinformatics-p.PNG)
+![](/images/bioinformatics-p.png)
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
