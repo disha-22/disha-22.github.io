@@ -3,7 +3,7 @@ title: 'Bioinformatics Pipeline applied to Transcriptomics'
 subtitle: 'Virtual-Internship - Summer 2020'
 date: 2018-06-30 00:00:00
 description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
-featured_image: '/images/bio3.png'
+featured_image: '/images/app-main.jpg'
 ---
 
 ![](/images/bioinformatics-p.png)
