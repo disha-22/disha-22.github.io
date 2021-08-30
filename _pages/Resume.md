@@ -8,19 +8,17 @@ featured_image: /images/resume3.jpg
  
  <h4>Mission College (Dual Enrollment High School) </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Summer 2021 - Current</em></p>
- > College Courses
- <br> Senior Year: Linear Algebra, Discrete Mathematics
- <br> Junior Year: Differential Equations
+ > Fall 2021: Linear Algebra, Discrete Mathematics
+ <br> Summer 2021: Differential Equations
  
  <h4>Los Gatos High School</h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
->Significant Courses
-<br> Senior Year: AP Phys C, AP CS, AP Gov, Econ H, AP French, AP Lit
+> Senior Year: AP Phys C, AP CS, AP Gov, Econ H, AP French, AP Lit
 <br> Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors
 <br> Sophomore Year: AP Calc BC, AP Euro, Eng 10 Honors, Robotics 
 <br> Freshman Year: Bio Honors, Trig/Precalc Honors, Eng 9 Honors, Robotics
 
-> Overall GPA: 4.5 ( straight As )
+> Overall GPA: 4.5 
 <br> AP Scores: 5 ( Biology, Chemistry, Physics 1, Stats, Lang, Calculus BC, European History )
 <br> Non-academic Courses: Varsity Tennis (Captain), Orchestra
  
