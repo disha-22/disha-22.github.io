@@ -3,14 +3,18 @@ title: 'Bioinformatics Pipeline applied to Transcriptomics'
 subtitle: 'Virtual-Internship + The Bioinformatics Academy'
 date: 2018-06-30 00:00:00
 description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
-featured_image: '/images/app-main.jpg'
+featured_image: '/images/ba1.PNG'
 ---
-
-![](/images/bioinformatics-p.png)
 
 <h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
 
 This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. 
+
+I’ve taken the steps to share my learning by creating a comprehensive online academy, The Bioinformatics Academy. In the academy, students build up computational skills until they can complete a basic bioinformatics pipeline.
+
+> The Bioinformatics Academy 
+<br> Fall 2020 - Winter 2021
+<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
 
 <hr>
   
@@ -18,10 +22,6 @@ This was an extremely challenging project that helped me get an understanding of
 > <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
 <br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
 <br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
-
-> The Bioinformatics Academy 
-<br> Fall 2020 - Winter 2021
-<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
 
 <h6> Soft Skills </h6>
 > Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
@@ -43,8 +43,9 @@ This was an extremely challenging project that helped me get an understanding of
 
 <div class="gallery" data-columns="1">
 	<img src="/images/sa-certificate.png">
-	<img src="/images/bio.PNG">
-	<img src="/images/heatmap3.png">
+	<img src="/images/ba1.PNG">
+	<img src="/images/ba2.PNG">
+	<img src="/images/ba3.PNG">
 </div>
 
 
