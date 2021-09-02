@@ -18,7 +18,8 @@ featured_image: /images/resume3.jpg
 <br> Sophomore Year: AP Calc BC, AP Euro, Eng 10 Honors, Robotics 
 <br> Freshman Year: Bio Honors, Trig/Precalc Honors, Eng 9 Honors, Robotics
 
-> Overall GPA: 4.51 
+> Overall GPA: 4.51
+<br> Academic GPA: 4.55 
 <br> AP Scores: 5 ( Biology, Chemistry, Physics 1, Stats, Lang, Calculus BC, European History )
 <br> Non-academic Courses: Varsity Tennis (Captain), Orchestra
  
