@@ -19,7 +19,7 @@ featured_image: '/images/bio3.png'
 <br><br> <b>Leadership Award:</b> For excellent pathway-wide project management leadership
 
 <h6> Soft Skills </h6>
-> Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation,Self-Assessment, Time and Task Management, Troubleshooting
+> Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation, Self-Assessment, Time and Task Management, Troubleshooting
 
 <h6> Bioinformatics Skills </h6>
 > <b>R Shiny ( Reactive Inputs & Outputs )</b>
