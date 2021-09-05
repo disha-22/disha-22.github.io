@@ -22,9 +22,10 @@ Paid intern at Edfinity, an educational technology platform funded by the Nation
 
 
 <div class="gallery" data-columns="1">
-
+	<img src="/images/s2.png">
+	<img src="/images/s1.PNG">
+	<img src="/images/s3.PNG">
 </div>
-
 
 ---
 
