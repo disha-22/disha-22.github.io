@@ -7,18 +7,17 @@ featured_image: '/images/shutterstock_317431127.jpg'
 ---
 
 <br>
-Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math curricula. 
+Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF).
 <hr>
   
 <h6> Highlights </h6>
-> 
+> **Career Foundations:** Comprehensive industry work experience. Collaborated with a team to develop and test math curricula for college students.
 
 <h6> Soft Skills </h6>
-> 
+> Collaboration, Time and Task Management, Technical Meetings, Teamwork, Troubleshooting
 
 <h6> Technical Skills </h6>
-> 
-
+> LaTeX, Course Developement in Canvas, Gradescope, Edfinity, and Itempool, Math Knowledge For College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2
 ---
 
 
