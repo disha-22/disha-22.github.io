@@ -17,7 +17,9 @@ Paid intern at Edfinity, an educational technology platform funded by the Nation
 > Collaboration, Time and Task Management, Technical Meetings, Teamwork, Troubleshooting
 
 <h6> Technical Skills </h6>
+
 > LaTeX, Course Developement in Canvas, Gradescope, Edfinity, and Itempool, Math Knowledge For College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2
+
 ---
 
 
