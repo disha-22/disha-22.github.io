@@ -6,8 +6,8 @@ featured_image: /images/resume3.jpg
         
  <h2><span>Education</span></h2>
  
-<h4>Massachusetts Institute of Technology</h4>
-<h4>Bachelor of Science in Computer Science, Economics, and Data Science</h4>
+<h4>Massachusetts Institute of Technology
+Bachelor of Science in Computer Science, Economics, and Data Science</h4>
 Sept 2022 - Current
 
 > Courses: Intro to Python and Data Science, Multivariable Calculus,
@@ -26,21 +26,9 @@ Aug 2018 - June 2022
 <br> Physics 1, Physics C Mech, European History, Government, Language, Literature
 <br> ( scored 5/5 on all associated AP tests )
 
- <h4>Mission College (Dual Enrollment High School) </h4>
-  <p style="font-family:verdana; font-size:20px"><em class="date">Summer 2021 - Current</em></p>
- > Fall 2021: Linear Algebra, Discrete Mathematics
- <br> Summer 2021: Differential Equations
- 
- <h4>Los Gatos High School</h4>
-  <p style="font-family:verdana; font-size:20px"><em class="date">Aug 2018 - Current</em></p>
-> Senior Year: AP Phys C, AP CS, AP Gov, Econ H, AP French, AP Lit
-<br> Junior Year: AP Bio, AP Chem, AP Physics 1, AP Stats, AP Lang, French 4 Honors
-<br> Sophomore Year: AP Calc BC, AP Euro, Eng 10 Honors, Robotics 
-<br> Freshman Year: Bio Honors, Trig/Precalc Honors, Eng 9 Honors, Robotics
-
 > GPA: 4.0
 <br> Weighted GPA: 4.6 
-<br> Non-academic Courses: Varsity Tennis (Captain), Orchestra
+<br> Other activities: Varsity Tennis (Captain), Robotics, Orchestra
  
 > Independent Study
 <br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
