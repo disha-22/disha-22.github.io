@@ -1,8 +1,8 @@
 ---
-title: 'Math Curriculum Development'
-subtitle: 'Math Intern at Edfinity - April 2021 to October 2021'
+title: 'Math & Computer Science Curriculum Development'
+subtitle: 'Math & Computer Science Intern at Edfinity - April 2021 to October 2021'
 date: 2019-03-30 00:00:00
-description: Development and testing of math curricula for college students
+description: Development and testing of math and computer science curricula for college students
 featured_image: '/images/shutterstock_317431127.jpg'
 ---
 
@@ -11,14 +11,14 @@ Paid intern at Edfinity, an educational technology platform funded by the Nation
 <hr>
   
 <h6> Highlights </h6>
-> **Career Foundations:** Comprehensive industry work experience. Collaborated with a team to develop and test math curricula for college students.
+> **Career Foundations:** Comprehensive industry work experience. Collaborated with a team to develop and test math and computer science curricula for college students.
 
 <h6> Soft Skills </h6>
 > Collaboration, Time and Task Management, Technical Meetings, Teamwork, Troubleshooting
 
 <h6> Technical Skills </h6>
 
-> LaTeX, Course Developement in Canvas, Gradescope, Edfinity, and Itempool, Math Knowledge For College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2
+> LaTeX, Course Developement in Canvas, Gradescope, Edfinity, and Itempool, Computer Science Knowledge, Math Knowledge For College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2
 
 ---
 
