@@ -40,15 +40,15 @@ Aug 2018 - June 2022
 <h2>Projects/ Internships</h2>
 > Bioinformatics Project Management Lead at STEMaway
 <br> Summer 2021
-<br> Student lead at STEMaway, a virtual-internship platform to prepare students for tech careers. Responsibilities included project management and app development for an R Shiny app to guide users through an interactive transcriptomics pipeline. <a href = "https://bi-stem-away.github.io/sMAP/">Link to GitHub page.</a>
+<br> Student lead at STEM-Away, a virtual-internship platform to prepare students for tech careers. Worked on the full product cycle of a <a href="http://ec2-3-131-158-100.us-east-2.compute.amazonaws.com/">Transcriptomics R Shiny App</a> - project definition, researching existing solutions, UX interviews, coding. Managed project logistics throughout the development period and simultaneously contributed to backend code and <a href = "https://bi-stem-away.github.io/sMAP/">GitHub team page.</a>
  
 > Math Intern at Edfinity 
 <br> April 2021- October 2021
-<br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math curricula. 
+<br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math and computer science curricula. 
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
-<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop</a>. Spread to students of six schools in the US and India.
+<br> Created an introductory self-paced course to unlock the world of computational sciences for students, especially those with opportunity barriers. Continuing content and platform enhancements as I gain more data science and full stack experience. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop</a>. 
  
 > Bioinformatics Virtual-Internship at STEMaway 
 <br> Summer 2020
@@ -64,12 +64,9 @@ Aug 2018 - June 2022
 <h4> High School: </h4>
 > NCWIT Aspirations in Computing Award: Bay Area Regional Winner
 <br> New York Times Student Editorial Fourth Round Finalist
-<br> Bausch + Lomb Honorary Science Award: Los Gatos High School
 <br> STEMaway Leadership Award
 <br> First Robotics Competition: Regional Finalists
+<br> Bausch + Lomb Honorary Science Award: Los Gatos High School
 <br> AP Scholar with Distinction
 <br> French Department Award
-<h4> 8th grade: </h4>
-> John Hopkins CTY Study of Exceptional Talent ( <a href="https://cty.jhu.edu/set/">SET</a> ) Scholar 
-<br> Math Kangaroo National Competition: Ranked 5th 
-<br> Departmental Math Medal
+
