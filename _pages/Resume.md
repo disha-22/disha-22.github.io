@@ -6,7 +6,7 @@ featured_image: /images/resume3.jpg
         
  <h2><span>Education</span></h2>
  
-<h4>Massachusetts Institute of Technology
+<h4>Massachusetts Institute of Technology<br>
 Bachelor of Science in Computer Science, Economics, and Data Science</h4>
 Sept 2022 - Current
 
@@ -48,7 +48,7 @@ Aug 2018 - June 2022
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
-<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a> and <a href="https://play.google.com/store/books/details/Disha_Chauhan_The_Bioinformatics_Academy?id=9vg8EAAAQBAJ">link to free ebook on Google Play </a>. Spread to students of six schools in the US and India.
+<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop</a>. Spread to students of six schools in the US and India.
  
 > Bioinformatics Virtual-Internship at STEMaway 
 <br> Summer 2020
