@@ -1,6 +1,6 @@
 ---
 title: 'Math & Computer Science Curriculum Development'
-subtitle: 'Math & Computer Science Intern at Edfinity - April 2021 to October 2021'
+subtitle: 'Intern at Edfinity - April 2021 to October 2021'
 date: 2019-03-30 00:00:00
 description: Development and testing of math and computer science curricula for college students
 featured_image: '/images/shutterstock_317431127.jpg'
