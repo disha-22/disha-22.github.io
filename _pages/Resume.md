@@ -6,6 +6,26 @@ featured_image: /images/resume3.jpg
         
  <h2><span>Education</span></h2>
  
+<h4>Massachusetts Institute of Technology</h4>
+<h4>Bachelor of Science in Computer Science, Economics, and Data Science</h4>
+Sept 2022 - Current
+
+> Courses: Intro to Python and Data Science, Multivariable Calculus,
+<br> Physics, Intro to Microeconomics
+
+<h4>Mission College (Dual Enrollment High School)</h4>
+Summer 2021 - Fall 2021
+
+> Courses: Linear Algebra (audit), Discrete Mathematics, 
+<br> Differential Equations
+
+<h4>Los Gatos High School</h4>
+Aug 2018 - June 2022
+
+> AP Courses: Computer Science, Statistics, Calculus BC, Biology, Chemistry,
+<br> Physics 1, Physics C Mech, European History, Government, Language, Literature
+<br> ( scored 5/5 on all associated AP tests )
+
  <h4>Mission College (Dual Enrollment High School) </h4>
   <p style="font-family:verdana; font-size:20px"><em class="date">Summer 2021 - Current</em></p>
  > Fall 2021: Linear Algebra, Discrete Mathematics
@@ -18,9 +38,8 @@ featured_image: /images/resume3.jpg
 <br> Sophomore Year: AP Calc BC, AP Euro, Eng 10 Honors, Robotics 
 <br> Freshman Year: Bio Honors, Trig/Precalc Honors, Eng 9 Honors, Robotics
 
-> Overall GPA: 4.55
-<br> Academic GPA: 4.59 
-<br> AP Scores: 5 ( Biology, Chemistry, Physics 1, Stats, Lang, Calculus BC, European History )
+> GPA: 4.0
+<br> Weighted GPA: 4.6 
 <br> Non-academic Courses: Varsity Tennis (Captain), Orchestra
  
 > Independent Study
