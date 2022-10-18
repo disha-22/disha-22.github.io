@@ -14,7 +14,7 @@ featured_image: '/images/ba-1.PNG'
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
-<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop </a>. Spread to students of six schools in the US and India.
+<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop</a>. Spread to students of six schools in the US and India.
 
 <hr>
   
