@@ -49,7 +49,7 @@ Aug 2018 - June 2022
 
 > Software Intern at STEMaway 
 <br> June 2021- August 2021
-<br> Improved website content organization and supported student application management.
+<br> Improved website content organization and supported student application management. Gained significant expertience with Airtable and integration tools.
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
