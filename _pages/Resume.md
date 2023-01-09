@@ -10,8 +10,9 @@ featured_image: /images/resume3.jpg
 Bachelor of Science in Computer Science, Economics, and Data Science</h4>
 Sept 2022 - Current
 
-> Courses: Intro to Python and Data Science, Multivariable Calculus,
-<br> Physics, Intro to Microeconomics
+> Spring 2023 Courses: Fundamentals of Programming, Math for CS, Linear Algebra, Chem 1
+<br> Fall 2022 Courses: Intro to Python/Data Science, Multivariable Calculus, Physics 1, Intro to Microeconomics
+
 
 <h4>Mission College (Dual Enrollment High School)</h4>
 Summer 2021 - Fall 2021
@@ -45,6 +46,10 @@ Aug 2018 - June 2022
 > Math Intern at Edfinity 
 <br> April 2021- October 2021
 <br> Paid intern at Edfinity, an educational technology platform funded by the National Science Foundation (NSF). Responsibility includes development and testing of math and computer science curricula. 
+
+> Software Intern at STEMaway 
+<br> June 2021- August 2021
+<br> Improved website content organization and supported student application management.
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
