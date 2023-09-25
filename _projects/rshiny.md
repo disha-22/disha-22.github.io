@@ -1,38 +1,38 @@
 ---
-title: 'sMAP: Standard Microarray Analysis Pipeline App'
-subtitle: 'Project Mangement Lead - Summer 2021'
+title: 'Orchestrating sMAP: An Intelligent Microarray Analysis Platform'
+subtitle: 'Steering Project Management and Backend Development in Summer 2021'
 date: 2021-06-30 00:00:00
-description: An R Shiny educational app to guide users through a interactive transcriptomics pipeline
+description: Developing an R Shiny App that Delivers a User-Centric, Interactive Transcriptomics Analysis Experience
 featured_image: '/images/bio3.png'
 ---
 
 ![](/images/app1.PNG)
 
-<h4>An R Shiny educational app to guide users through a interactive transcriptomics pipeline</h4>
+<h4>R Shiny App for Streamlined Transcriptomics: A Hands-On User Journey in Microarray Analysis</h4>
 
 <em>"My most enjoyable moments were when tasks/the project in general began to function how I hoped. For example, after a two or so weeks of the project, working with Sam and Nikita for setting up the project's outline the initial chaos of the project began to settle as participants got a better understanding of our goal. Seeing things beginning to run smoothly was very rewarding as a project management lead. Similarly, when I got R Shiny code that I worked on for a while to work (e.g., my volcano plot), I felt overjoyed."</em>
 
 <hr>
   
-<h6> Highlights </h6>
-> <b>Career Foundations:</b> Managed project logistics throughout the developement period and simultaneously contributed to sMAP's backend code and project site developement 
-<br><br> <b>Leadership Award:</b> For excellent pathway-wide project management leadership
+<h6> Milestones </h6>
+> <b>Operational Excellence:</b> Spearheaded project management, while actively contributing to backend development and the overall project architecture.
+<br><br> <b>Leadership Recognition:</b> Awarded for outstanding leadership in project management across the pathway.
 
-<h6> Soft Skills </h6>
-> Project Management, Leadership, Onboarding Assistance, Feedback Collection, Teamwork, Technical Presentation, Self-Assessment, Time and Task Management, Troubleshooting
+<h6> Soft Skills and Leadership </h6>
+> Project Planning, Team Leadership, Employee Onboarding, Feedback Synthesis, Team Collaboration, Technical Presentations, Self-Evaluation, Time Management, Problem-Solving
 
-<h6> Bioinformatics Skills </h6>
-> <b>R Shiny ( Reactive Inputs & Outputs )</b>
-<br> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
-<br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
+<h6> Technical Capabilities </h6>
+> <b>R Shiny Framework:</b> Mastery in Reactive Inputs & Outputs
+<br> <b>Bioinformatics Technologies:</b> <br>Quality Control ( RLE Boxplots, NUSE Boxplots ) <br>Data Visualization ( PCA, Heatmaps, Volcano Plots )
+<br>Differential Gene Expression Analysis ( Annotation, Gene Filtering, Limma Analysis, Volcano Plots ) <br>Functional Analysis ( GO, KEGG, STRING Database )
 
-<h6> Industry Tools </h6>
+<h6> Toolkit Proficiency </h6>
 > GitHub, R Shiny, R Studio, Trello, GSuite, Airtable, Typeform
 
-<h6> Details </h6>
-> <b>sMAP</b> was made to help users understand a standard transcriptomics pipeline by taking them through the steps of microarray analysis. sMAP has an interactive user interface where users upload a GEO dataset and explore functions for quality control, statistical analysis, and functional analysis to find potential biomarkers.
+<h6> Project Insights </h6>
+> <b>About sMAP:</b> Developed to demystify the complexities of a standard transcriptomics pipeline, sMAP presents an interactive interface allowing users to upload GEO datasets. They can then engage in quality control, statistical analysis, and functional scrutiny to unearth potential biomarkers.
 
-> sMAP’s development team was brought together via STEM-Away, a platform for virtual internships. Our team is made up of participants in STEM-Away’s bioinformatics pathway who wanted to challenge themselves by taking on the R Shiny App project. We organized our team into five groups, respectively in charge of developing code for the transcriptomics pipeline, implementing code in R Shiny, formatting the layout of the R Shiny App, managing GitHub and code documentation, and producing this GitHub page and our documentation site.
+> <b>Team Dynamics:</b> The project was conceived and executed through STEM-Away’s virtual internship platform. Our multi-faceted team, categorized into five specialized units, took charge of distinct roles—from coding the transcriptomics pipeline and integrating it into the R Shiny app, to GitHub management and documentation.
 
 ---
 
