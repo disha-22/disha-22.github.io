@@ -7,11 +7,13 @@ featured_image: /images/resume3.jpg
  <h2><span>Education</span></h2>
  
 <h4>Massachusetts Institute of Technology<br>
-Bachelor of Science in Computer Science, Economics, and Data Science</h4>
+Bachelor of Science in Computer Science and Mathematics, Minors in Economics and Business Analytics</h4>
 Sept 2022 - Current
 
-> Spring 2023 Courses: Fundamentals of Programming, Math for CS, Linear Algebra, Chem 1
-<br> Fall 2022 Courses: Intro to Python/Data Science, Multivariable Calculus, Physics 1, Intro to Microeconomics
+> Spring 2024 Courses: Macroeconomics, Optimization Methods in Business Analytics, Machine Learning, Physics Electricity and Magnetism, Biochemistry
+<br> Fall 2023 Courses: Algorithms, Organic Chemistry, Applied Probability and Statistics for Business Analytics, Genetics
+<br> Spring 2023 Courses: Fundamentals of Programming, Math for CS, Linear Algebra, Chemistry
+<br> Fall 2022 Courses: Intro to Python/Data Science, Multivariable Calculus, Physics Mechanics, Microeconomics
 
 
 <h4>Mission College (Dual Enrollment High School)</h4>
@@ -24,12 +26,12 @@ Summer 2021 - Fall 2021
 Aug 2018 - June 2022
 
 > AP Courses: Computer Science, Statistics, Calculus BC, Biology, Chemistry,
-<br> Physics 1, Physics C Mech, European History, Government, Language, Literature
+<br> Physics 1, Physics C Mechanics, European History, Government and Politics, Language and Composition, Literature and Composition
 <br> ( scored 5/5 on all associated AP tests )
 
 > GPA: 4.0
-<br> Weighted GPA: 4.6 
-<br> Other activities: Varsity Tennis (Captain), Robotics, Orchestra
+<br> Weighted GPA: 4.63 
+<br> Other activities: Varsity Tennis, Robotics, Orchestra
  
 > Independent Study
 <br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
@@ -39,6 +41,14 @@ Aug 2018 - June 2022
 <hr style="height:5px;color:black">
 
 <h2>Projects/ Internships</h2>
+> Research Intern in Educational Data Analytics at MIT's STEP Lab
+<br> June 2023 - Present
+<br> Contributed to high-impact research focusing on the strategic implementation of Project-based Learning (PBL) curricula. Conducted a case study comparing Massachusetts educators to understand the variables affecting curriculum adoption. Co-authored a research paper targeting the AERA conference. Played a key role in refining the full software system that hosts PBL content. Extending contributions into the fall, focusing on quantitative data analysis for our upcoming paper on place-based learning.
+
+> Teaching Assistant for MIT's Physics Department
+<br> September 2023 - Present
+<br> Grading exams and problems sets, as well as assisting students taking MIT's 8.01 (Physics Mechanics)
+
 > Bioinformatics Project Management Lead at STEMaway
 <br> Summer 2021
 <br> Student lead at STEM-Away, a virtual-internship platform to prepare students for tech careers. Worked on the full product cycle of a <a href="http://ec2-3-131-158-100.us-east-2.compute.amazonaws.com/">Transcriptomics R Shiny App</a> - project definition, researching existing solutions, UX interviews, coding. Managed project logistics throughout the development period and simultaneously contributed to backend code and <a href = "https://bi-stem-away.github.io/sMAP/">GitHub team page.</a>
