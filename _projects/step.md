@@ -1,6 +1,6 @@
 ---
 title: 'Advancing Educational Paradigms through Data Analytics'
-subtitle: 
+subtitle: Research Intern in MIT''s STEP Lab - Summer 2023 to Present
 date: 2023-06-28 00:00:00
 description: Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference
 featured_image: '/images/investigative-research-960.jpg'
