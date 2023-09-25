@@ -2,7 +2,7 @@
 title: 'Advancing Educational Paradigms through Data Analytics'
 subtitle: 
 date: 2023-06-28 00:00:00
-description: 
+description: Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference
 featured_image: '/images/investigative-research-960.jpg'
 ---
 
