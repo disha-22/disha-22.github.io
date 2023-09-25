@@ -1,9 +1,9 @@
 ---
-title: 'Leveraging Bioinformatics for Advanced Transcriptomics Analysis'
-subtitle: 'The Bioinformatics Academy + Virtual Internship'
-date: 2018-06-30 00:00:00
-description: Transforming Transcriptomics Data Analysis with Cutting-Edge Bioconductor R Packages — A Journey from Meticulous Quality Control to In-Depth Functional Analysis
-featured_image: '/images/ba-1.PNG'
+title: 'Advancing Educational Paradigms through Data Analytics'
+subtitle: 'Research Intern in MIT's STEP Lab - Summer 2023 to Present'
+date: 2023-02-30 00:00:00
+description: 'Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference'
+featured_image: '/images/investigative-research-960.jpg'
 ---
 
 <h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
@@ -30,5 +30,7 @@ featured_image: '/images/ba-1.PNG'
 <h6> Project Insights </h6>
 > <b>Case Study:</b> Conducted a comparative case study involving educators across Massachusetts to uncover the variables influencing the adoption of PBL curricula.
 <br><br> <b>Continued Involvement:</b> Eagerly extending my research contributions into the fall, with a particular focus on quantitative data analysis for our upcoming paper on place-based learning.
+
+---
 
 ---
