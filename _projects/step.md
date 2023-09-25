@@ -3,10 +3,11 @@ title: 'Advancing Educational Paradigms through Data Analytics'
 subtitle: 'Research Intern in MIT's STEP Lab - Summer 2023 to Present'
 date: 2023-02-30 00:00:00
 description: Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference
-featured_image: '/images/ml2.png'
+featured_image: '/images/investigative-research-960.jpg'
 ---
 
 <h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
+
 <em>"On this research journey, as we explored the dynamics of Project-Based Learning adoption among educators in Massachusetts, the thrill of unearthing influential variables felt incredibly fulfilling. The experience of co-authoring a research paper destined for the AERA conference added a new layer to my academic journey. Instrumental in enhancing a software system that hosts PBL content, I eagerly anticipate extending my contributions into the fall with a focus on sophisticated quantitative analysis for our upcoming paper on place-based learning."</em>
 
 <hr>
