@@ -1,9 +1,9 @@
 ---
 title: 'Advancing Educational Paradigms through Data Analytics'
-subtitle: 'Research Intern in MIT's STEP Lab - Summer 2023 to Present'
+subtitle: 
 date: 2023-06-28 00:00:00
 description: 
-featured_image: '/images/investigative-research-960.jpg'
+featured_image: 
 ---
 
 <h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
