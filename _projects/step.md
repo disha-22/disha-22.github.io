@@ -1,9 +1,9 @@
 ---
-title: 'Advancing Educational Paradigms through Data Analytics'
-subtitle: 'Research Intern in MIT's STEP Lab - Summer 2023 to Present'
-date: 2023-02-25 00:00:00
-description: 'Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference'
-featured_image: '/images/investigative-research-960.jpg'
+title: 'Leveraging Bioinformatics for Advanced Transcriptomics Analysis'
+subtitle: 'The Bioinformatics Academy + Virtual Internship'
+date: 2018-06-30 00:00:00
+description: Transforming Transcriptomics Data Analysis with Cutting-Edge Bioconductor R Packages — A Journey from Meticulous Quality Control to In-Depth Functional Analysis
+featured_image: '/images/ba-1.PNG'
 ---
 
 <h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
