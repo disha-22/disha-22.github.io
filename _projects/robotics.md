@@ -23,7 +23,7 @@ Member of Los Gatos High School's Award-Winning Robotics Team: <a href ="http://
 
 <h6> Project Insights </h6>
 > <b>Holistic Engineering:</b> Contributed to each stage of robot design, from conception to competition-readiness. Involved in designing and prototyping various robotic systems such as drive-trains, intake/outtake mechanisms, elevators, and vision systems, all while adhering to stringent competition regulations outlined in the <a href="https://firstfrc.blob.core.windows.net/frc2020/Manual/2020FRCGameSeasonManual.pdf"> FRC Game Manual </a>.  
-<br><br> <b>Cutting-Edge Manufacturing:</b> Utilized school's machine shop to fabricate designs, employing advanced tools such as CNC machines and lathes. The iterative process included meticulous assembly, testing, and design optimization.
+<br> <b>Cutting-Edge Manufacturing:</b> Utilized school's machine shop to fabricate designs, employing advanced tools such as CNC machines and lathes. The iterative process included meticulous assembly, testing, and design optimization.
 <br><br> <b>Design Contributions: </b> Engineered the intake design and prototype for the 2019 robot, as seen in the bottom right image and in action at the competition (left image). Devised ball storage and conveyor assembly for the 2020 robot (competition cancelled due to COVID-19).
 <br><br> <b>Leadership Initiatives:</b> Executed grant-writing efforts and helped with outreach to local businesses. Managed budgetary spreadsheets and orchestrated component procurement. Participated efforts to demo our robot at elementary schools, fueling young minds' curiosity in engineering.
 
