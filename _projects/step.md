@@ -1,32 +1,33 @@
 ---
-title: 'xyz Recommendation and Classification Systems using Natural Language Processing'
-subtitle: 'Independent Project - Ongoing'
+title: 'Advancing Educational Paradigms through Data Analytics'
+subtitle: 'Research Intern in MIT's STEP Lab - Summer 2023 to Present'
 date: 2023-02-30 00:00:00
-description: 
+description: Engaged in Transformative Research on Project-based Learning (PBL) Adoption and Curricula, Co-Authoring for AERA Conference
 featured_image: '/images/ml2.png'
 ---
 
-<h4>Recommendation and Classification Systems using Natural Language Processing</h4>
-
+<h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
+<em>"On this research journey, as we explored the dynamics of Project-Based Learning adoption among educators in Massachusetts, the thrill of unearthing influential variables felt incredibly fulfilling. The experience of co-authoring a research paper destined for the AERA conference added a new layer to my academic journey. Instrumental in enhancing a software system that hosts PBL content, I eagerly anticipate extending my contributions into the fall with a focus on sophisticated quantitative analysis for our upcoming paper on place-based learning."</em>
 
 <hr>
   
-<h6> Highlights </h6>
-> End-to-end execution of a Machine Learning project from data collection to training models to deployment.
-<br><br> Familiarity with new technologies such as Bidirectional Representation for Transformers (BERT), that was proposed by Google Research in 2018.
+<h6> Milestones </h6>
+> <b>Research Excellence:</b> Contributed to seminal research on the strategic implementation of PBL curricula.
+<br> <b>Paper Co-Authorship: </b> Proud co-author of a research paper targeting the esteemed AERA conference.
+<br> <b>Technical Enhancement:</b> Played a crucial role in refining the software system used for hosting PBL content.
 
-<h6> Soft Skills </h6>
-> Finding relevant resources, Time and Task Management, Troubleshooting, Self-motivation
+<h6> Soft Skills and Leadership </h6>
+> Research Collaboration, Data Analysis, Academic Writing, Teamwork, Critical Thinking, Time Management, Project Planning
 
-<h6> Machine Learning Skills </h6>
-> Recommender Systems, Classification Systems, TF-IDF, BERT
-<h6> Industry Tools </h6>
-> Colab, Anaconda, StreamLit, GitHub
+<h6> Technical Capabilities </h6>
+> <b>Educational Data Analytics:</b> Case Study Design & Execution, Variable Identification & Analysis
+<br> <b>Quantitative Research: </b> Upcoming focus on quantitative analysis for a paper on place-based learning
 
-<h6> Details </h6>
-> <b>Data Collection</b>: Used Beautiful Soup and Selenium to get data from DiscourseHub Community forums.
-<br><br> <b>Exploratory Data Analysis:</b> Studied how pre-processing affects performance of different models.
-<br><br> <b>Calculate similarity between posts and recommend posts/ classify posts:</b> Implemented TF-IDF to obtain features in the form of vectorized matrix. Used BERT to overcome the shortcomings of TF-IDF in classifying an unlabelled post.
-<br><br> <b>Deployment:</b> Building a simple web app using Streamlit.
+<h6> Toolkit Proficiency </h6>
+> GitLab, Spreadsheets, Otter and Consensus AI, Data Analysis Software, Academic Research Tools, Collaboration Platforms
+
+<h6> Project Insights </h6>
+> <b>Case Study:</b> Conducted a comparative case study involving educators across Massachusetts to uncover the variables influencing the adoption of PBL curricula.
+<br><br> <b>Continued Involvement:</b> Eagerly extending my research contributions into the fall, with a particular focus on quantitative data analysis for our upcoming paper on place-based learning.
 
 ---
