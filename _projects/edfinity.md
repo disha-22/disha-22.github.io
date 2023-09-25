@@ -11,16 +11,16 @@ featured_image: '/images/shutterstock_317431127.jpg'
 <hr>
   
 <h6> Highlights </h6>
-> **Industry Impact:** Garnered hands-on experience in a highly collaborative environment, leading to the accelerated development and validation of college-level math and computer science curricula.
-> <b>Data Utilization:</b> Deployed data analytics via spreadsheets to expedite the iterative process of course content testing and enhancements.
-> <b>Innovative Learning Solutions: </b> Leveraged NSF funding to architect and optimize courses that elevate the educational experience for college students.
+> <b>Industry Impact:</b> Garnered hands-on experience in a highly collaborative environment, leading to the accelerated development and validation of college-level math and computer science curricula.
+<br><br> <b>Data Utilization:</b> Deployed data analytics via spreadsheets to expedite the iterative process of course content testing and enhancements.
+<br><br> <b>Innovative Learning Solutions: </b> Leveraged NSF funding to architect and optimize courses that elevate the educational experience for college students.
 
 <h6> Core Competencies </h6>
 > Effective Collaboration, Time & Task Management, Technical Meeting Facilitation, Team Dynamics, Problem-Solving & Troubleshooting
 
 <h6> Technical Skills </h6>
 > <b>Curriculum Platforms:</b> Mastery over LaTeX, Canvas, Gradescope, Edfinity, and Itempool.
-> <b>Academic Specialization:</b> Profound knowledge in college-level math and computer science courses including College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2.
+<br><br> <b>Academic Specialization:</b> Profound knowledge in college-level math and computer science courses including College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2.
 
 ---
 
