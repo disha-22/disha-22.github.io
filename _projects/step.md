@@ -3,7 +3,7 @@ title: 'Advancing Educational Paradigms through Data Analytics'
 subtitle: 
 date: 2023-06-28 00:00:00
 description: 
-featured_image: 
+featured_image: '/images/investigative-research-960.jpg'
 ---
 
 <h4>Leveraging Data Analytics to Revolutionize Project-Based Learning (PBL) in Education</h4>
