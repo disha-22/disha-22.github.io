@@ -25,7 +25,7 @@ featured_image: '/images/ml2.png'
 > Google Colab, Anaconda, StreamLit, GitHub
 
 <h6> Project Specifics </h6>
-> <b>Data Harvesting </b>: Leveraged Beautiful Soup and Selenium to acquire targeted data from DiscourseHub Community forums.
+> <b>Data Harvesting: </b> Leveraged Beautiful Soup and Selenium to acquire targeted data from DiscourseHub Community forums.
 <br><br> <b>Exploratory Data Analysis:</b> Utilized TF-IDF for feature extraction and leveraged BERT to mitigate its limitations, thereby improving classification and recommendation capabilities.
 <br><br> <b>Algorithmic Innovation:</b> Implemented TF-IDF to obtain features in the form of vectorized matrix. Used BERT to overcome the shortcomings of TF-IDF in classifying an unlabelled post.
 <br><br> <b>Deployment:</b> Developed a user-friendly web application utilizing StreamLit..
