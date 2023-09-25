@@ -1,43 +1,43 @@
 ---
-title: 'Bioinformatics Pipeline applied to Transcriptomics'
+title: 'Leveraging Bioinformatics for Advanced Transcriptomics Analysis'
 subtitle: 'The Bioinformatics Academy + Virtual Internship'
 date: 2018-06-30 00:00:00
-description: Transcriptomics Data Analysis using Bioconductor R Packages - From Quality Control to Functional Analysis
+description: Transforming Transcriptomics Data Analysis with Cutting-Edge Bioconductor R Packages — A Journey from Meticulous Quality Control to In-Depth Functional Analysis
 featured_image: '/images/ba-1.PNG'
 ---
 
 ![](/images/bioinformatics-p.png)
 
-<h4>Bioinformatics Pipeline applied to Transcriptomics: From Quality Control to Functional Analysis</h4>
+<h4>Transformative Approaches in Bioinformatics: Mastering Transcriptomics from Quality Control to Functional Analysis</h4>
 
-<em>"This was an extremely challenging project that helped me get an understanding of the Bioinformatics pipeline used for DNA microarray data. The knowledge and confidence gained from this internship is enabling me to experiment with variations of the pipeline to deepen my understanding of Bioinformatics. I’ve taken steps to share my learning by creating a comprehensive online academy, The Bioinformatics Academy. In the academy, students build up computational skills until they can complete a basic bioinformatics pipeline."</em>
+<em>"This challenging project offered me a profound immersion into the realm of Bioinformatics, specifically tailored to DNA microarray data analysis. Capitalizing on this experience, I have experimented with pipeline variations, thereby deepening my understanding of this field. To democratize access to this valuable knowledge, I founded 'The Bioinformatics Academy,' an online platform designed to incrementally build computational proficiencies until students can execute a complete bioinformatics pipeline."</em>
 
 > The Bioinformatics Academy 
 <br> Fall 2020 - Winter 2021
-<br> Created introductory course to unlock the world of computational sciences for students, especially those with opportunity barriers. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Link to sample module from the online workshop</a>. Spread to students of six schools in the US and India.
+<br> Launched a pioneering introductory course aimed at dismantling barriers to computational sciences, particularly for underrepresented groups. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Access a sample module from the online workshop here</a>. The course has gained traction across six educational institutions in the U.S. and India.
 
 <hr>
   
-<h6> Highlights </h6>
-> <b>Career Foundations:</b> Got a solid start on the fundamentals of applying big-data computing techniques to drive advances in fighting diseases such as Alzheimer's and cancer.
-<br><br> <b>Featured Speaker:</b> Was selected as one of the presenters in the STEMaway Showcase event featuring top high school students. Video embedded below.
-<br><br> <b>Community Contributions:</b> Used the knowledge from this internship to create a workshop to introduce the fundamentals of Bioinformatics and Data Science to High School students. 
+<h6> Key Achievements </h6>
+> <b>Career Foundations:</b> Cemented foundational skills in applying big-data analytics to spur innovation in combating formidable diseases like Alzheimer's and cancer.
+<br><br> <b>Public Speaker:</b> Distinguished as a featured presenter at the STEMaway Showcase event, a congregation of top-performing high school students. (See video below).
+<br><br> <b>Community Contributions:</b> Leveraged acquired expertise to host workshops demystifying Bioinformatics and Data Science to high school students.
 
-<h6> Soft Skills </h6>
-> Teamwork, Technical Presentation, Reading Scientific Papers, Self-Assessment, Time and Task Management, Troubleshooting
+<h6> Core Competencies </h6>
+> Team Collaboration, Technical Presentations, Scientific Literature Analysis, Self-Evaluation, Time & Task Management, Problem-Solving
 
-<h6> Bioinformatics Skills </h6>
+<h6> Technical Proficiency </h6>
 > <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
-<h6> Industry Tools </h6>
+<h6> Tools and Software </h6>
 > GitHub, R Studio, Asana, GSuite
 
-<h6> Details </h6>
-> <b>Data collection:</b> Acquired datasets <a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>, <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21510"> GSE21510 </a> from the GEO Database to recreate the results from the following scientific paper: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
-<br><br> <b>Data analysis:</b> Installed and used Bioconductor packages to normalize the data and remove outliers.
-<br><br> <b>Statistical analysis:</b> Used statistical methods to perform differential gene expression analysis. 
-<br><br> <b>Functional analysis:</b> Drew statistically significant correlations between disease and genes expressed. Specifically, identified genes that could be potential prognostic markers for colorectal cancer.
+<h6> Project Specifics </h6>
+> <b>Data Collection:</b> Acquired datasets <a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>, <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21510"> GSE21510 </a> from the GEO Database to emulate findings from this scientific publication: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
+<br><br> <b>Data Analytics:</b> Employed Bioconductor packages for data normalization and outlier removal.
+<br><br> <b>Statistical Methodologies:</b> Conducted differential gene expression analysis through rigorous statistical methods.
+<br><br> <b>Functional Analysis:</b> Identified statistically significant gene-to-disease correlations, spotlighting potential prognostic markers for colorectal cancer.
 
 ---
 
