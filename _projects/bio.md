@@ -12,7 +12,7 @@ featured_image: '/images/ba-1.PNG'
 
 <em>"This challenging project offered me a profound immersion into the realm of Bioinformatics, specifically tailored to DNA microarray data analysis. Capitalizing on this experience, I have experimented with pipeline variations, thereby deepening my understanding of this field. To democratize access to this valuable knowledge, I founded 'The Bioinformatics Academy,' an online platform designed to incrementally build computational proficiencies until students can execute a complete bioinformatics pipeline."</em>
 
-> The Bioinformatics Academy 
+> <b> The Bioinformatics Academy: </b> 
 <br> Fall 2020 - Winter 2021
 <br> Launched a pioneering introductory course aimed at dismantling barriers to computational sciences, particularly for underrepresented groups. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Access a sample module from the online workshop here</a>. The course has gained traction across six educational institutions in the U.S. and India.
 
@@ -27,7 +27,7 @@ featured_image: '/images/ba-1.PNG'
 > Team Collaboration, Technical Presentations, Scientific Literature Analysis, Self-Evaluation, Time & Task Management, Problem-Solving
 
 <h6> Technical Proficiency </h6>
-> <b>Bioconductor R Packages and GEO Database</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
+> <b>Bioconductor R Packages and GEO Database:</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
 <br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
 
 <h6> Tools and Software </h6>
